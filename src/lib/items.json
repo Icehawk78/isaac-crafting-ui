@@ -1,0 +1,5738 @@
+[
+  [
+    1,
+    {
+      "type": "passive",
+      "id": 1,
+      "name": "The Sad Onion"
+    }
+  ],
+  [
+    2,
+    {
+      "type": "passive",
+      "id": 2,
+      "name": "The Inner Eye"
+    }
+  ],
+  [
+    3,
+    {
+      "type": "passive",
+      "id": 3,
+      "name": "Spoon Bender"
+    }
+  ],
+  [
+    4,
+    {
+      "type": "passive",
+      "id": 4,
+      "name": "Cricket's Head"
+    }
+  ],
+  [
+    5,
+    {
+      "type": "passive",
+      "id": 5,
+      "name": "My Reflection"
+    }
+  ],
+  [
+    6,
+    {
+      "type": "passive",
+      "id": 6,
+      "name": "Number One"
+    }
+  ],
+  [
+    7,
+    {
+      "type": "passive",
+      "id": 7,
+      "name": "Blood of the Martyr"
+    }
+  ],
+  [
+    9,
+    {
+      "type": "passive",
+      "id": 9,
+      "name": "Skatole"
+    }
+  ],
+  [
+    12,
+    {
+      "type": "passive",
+      "id": 12,
+      "name": "Magic Mushroom"
+    }
+  ],
+  [
+    13,
+    {
+      "type": "passive",
+      "id": 13,
+      "name": "The Virus"
+    }
+  ],
+  [
+    14,
+    {
+      "type": "passive",
+      "id": 14,
+      "name": "Roid Rage"
+    }
+  ],
+  [
+    15,
+    {
+      "type": "passive",
+      "id": 15,
+      "name": "<3"
+    }
+  ],
+  [
+    16,
+    {
+      "type": "passive",
+      "id": 16,
+      "name": "Raw Liver"
+    }
+  ],
+  [
+    17,
+    {
+      "type": "passive",
+      "id": 17,
+      "name": "Skeleton Key"
+    }
+  ],
+  [
+    18,
+    {
+      "type": "passive",
+      "id": 18,
+      "name": "A Dollar"
+    }
+  ],
+  [
+    19,
+    {
+      "type": "passive",
+      "id": 19,
+      "name": "Boom!"
+    }
+  ],
+  [
+    20,
+    {
+      "type": "passive",
+      "id": 20,
+      "name": "Transcendence"
+    }
+  ],
+  [
+    21,
+    {
+      "type": "passive",
+      "id": 21,
+      "name": "The Compass"
+    }
+  ],
+  [
+    22,
+    {
+      "type": "passive",
+      "id": 22,
+      "name": "Lunch"
+    }
+  ],
+  [
+    23,
+    {
+      "type": "passive",
+      "id": 23,
+      "name": "Dinner"
+    }
+  ],
+  [
+    24,
+    {
+      "type": "passive",
+      "id": 24,
+      "name": "Dessert"
+    }
+  ],
+  [
+    25,
+    {
+      "type": "passive",
+      "id": 25,
+      "name": "Breakfast"
+    }
+  ],
+  [
+    26,
+    {
+      "type": "passive",
+      "id": 26,
+      "name": "Rotten Meat"
+    }
+  ],
+  [
+    27,
+    {
+      "type": "passive",
+      "id": 27,
+      "name": "Wooden Spoon"
+    }
+  ],
+  [
+    28,
+    {
+      "type": "passive",
+      "id": 28,
+      "name": "The Belt"
+    }
+  ],
+  [
+    29,
+    {
+      "type": "passive",
+      "id": 29,
+      "name": "Mom's Underwear"
+    }
+  ],
+  [
+    30,
+    {
+      "type": "passive",
+      "id": 30,
+      "name": "Mom's Heels"
+    }
+  ],
+  [
+    31,
+    {
+      "type": "passive",
+      "id": 31,
+      "name": "Mom's Lipstick"
+    }
+  ],
+  [
+    32,
+    {
+      "type": "passive",
+      "id": 32,
+      "name": "Wire Coat Hanger"
+    }
+  ],
+  [
+    46,
+    {
+      "type": "passive",
+      "id": 46,
+      "name": "Lucky Foot"
+    }
+  ],
+  [
+    48,
+    {
+      "type": "passive",
+      "id": 48,
+      "name": "Cupid's Arrow"
+    }
+  ],
+  [
+    50,
+    {
+      "type": "passive",
+      "id": 50,
+      "name": "Steven"
+    }
+  ],
+  [
+    51,
+    {
+      "type": "passive",
+      "id": 51,
+      "name": "Pentagram"
+    }
+  ],
+  [
+    52,
+    {
+      "type": "passive",
+      "id": 52,
+      "name": "Dr. Fetus"
+    }
+  ],
+  [
+    53,
+    {
+      "type": "passive",
+      "id": 53,
+      "name": "Magneto"
+    }
+  ],
+  [
+    54,
+    {
+      "type": "passive",
+      "id": 54,
+      "name": "Treasure Map"
+    }
+  ],
+  [
+    55,
+    {
+      "type": "passive",
+      "id": 55,
+      "name": "Mom's Eye"
+    }
+  ],
+  [
+    60,
+    {
+      "type": "passive",
+      "id": 60,
+      "name": "The Ladder"
+    }
+  ],
+  [
+    62,
+    {
+      "type": "passive",
+      "id": 62,
+      "name": "Charm of the Vampire"
+    }
+  ],
+  [
+    63,
+    {
+      "type": "passive",
+      "id": 63,
+      "name": "The Battery"
+    }
+  ],
+  [
+    64,
+    {
+      "type": "passive",
+      "id": 64,
+      "name": "Steam Sale"
+    }
+  ],
+  [
+    68,
+    {
+      "type": "passive",
+      "id": 68,
+      "name": "Technology"
+    }
+  ],
+  [
+    69,
+    {
+      "type": "passive",
+      "id": 69,
+      "name": "Chocolate Milk"
+    }
+  ],
+  [
+    70,
+    {
+      "type": "passive",
+      "id": 70,
+      "name": "Growth Hormones"
+    }
+  ],
+  [
+    71,
+    {
+      "type": "passive",
+      "id": 71,
+      "name": "Mini Mush"
+    }
+  ],
+  [
+    72,
+    {
+      "type": "passive",
+      "id": 72,
+      "name": "Rosary"
+    }
+  ],
+  [
+    74,
+    {
+      "type": "passive",
+      "id": 74,
+      "name": "A Quarter"
+    }
+  ],
+  [
+    75,
+    {
+      "type": "passive",
+      "id": 75,
+      "name": "PHD"
+    }
+  ],
+  [
+    76,
+    {
+      "type": "passive",
+      "id": 76,
+      "name": "X-Ray Vision"
+    }
+  ],
+  [
+    79,
+    {
+      "type": "passive",
+      "id": 79,
+      "name": "The Mark"
+    }
+  ],
+  [
+    80,
+    {
+      "type": "passive",
+      "id": 80,
+      "name": "The Pact"
+    }
+  ],
+  [
+    82,
+    {
+      "type": "passive",
+      "id": 82,
+      "name": "Lord of the Pit"
+    }
+  ],
+  [
+    87,
+    {
+      "type": "passive",
+      "id": 87,
+      "name": "Loki's Horns"
+    }
+  ],
+  [
+    89,
+    {
+      "type": "passive",
+      "id": 89,
+      "name": "Spider Bite"
+    }
+  ],
+  [
+    90,
+    {
+      "type": "passive",
+      "id": 90,
+      "name": "The Small Rock"
+    }
+  ],
+  [
+    91,
+    {
+      "type": "passive",
+      "id": 91,
+      "name": "Spelunker Hat"
+    }
+  ],
+  [
+    92,
+    {
+      "type": "passive",
+      "id": 92,
+      "name": "Super Bandage"
+    }
+  ],
+  [
+    101,
+    {
+      "type": "passive",
+      "id": 101,
+      "name": "The Halo"
+    }
+  ],
+  [
+    103,
+    {
+      "type": "passive",
+      "id": 103,
+      "name": "The Common Cold"
+    }
+  ],
+  [
+    104,
+    {
+      "type": "passive",
+      "id": 104,
+      "name": "The Parasite"
+    }
+  ],
+  [
+    106,
+    {
+      "type": "passive",
+      "id": 106,
+      "name": "Mr. Mega"
+    }
+  ],
+  [
+    108,
+    {
+      "type": "passive",
+      "id": 108,
+      "name": "The Wafer"
+    }
+  ],
+  [
+    109,
+    {
+      "type": "passive",
+      "id": 109,
+      "name": "Money = Power"
+    }
+  ],
+  [
+    110,
+    {
+      "type": "passive",
+      "id": 110,
+      "name": "Mom's Contacts"
+    }
+  ],
+  [
+    114,
+    {
+      "type": "passive",
+      "id": 114,
+      "name": "Mom's Knife"
+    }
+  ],
+  [
+    115,
+    {
+      "type": "passive",
+      "id": 115,
+      "name": "Ouija Board"
+    }
+  ],
+  [
+    116,
+    {
+      "type": "passive",
+      "id": 116,
+      "name": "9 Volt"
+    }
+  ],
+  [
+    117,
+    {
+      "type": "passive",
+      "id": 117,
+      "name": "Dead Bird"
+    }
+  ],
+  [
+    118,
+    {
+      "type": "passive",
+      "id": 118,
+      "name": "Brimstone"
+    }
+  ],
+  [
+    119,
+    {
+      "type": "passive",
+      "id": 119,
+      "name": "Blood Bag"
+    }
+  ],
+  [
+    120,
+    {
+      "type": "passive",
+      "id": 120,
+      "name": "Odd Mushroom"
+    }
+  ],
+  [
+    121,
+    {
+      "type": "passive",
+      "id": 121,
+      "name": "Odd Mushroom"
+    }
+  ],
+  [
+    122,
+    {
+      "type": "passive",
+      "id": 122,
+      "name": "Whore of Babylon"
+    }
+  ],
+  [
+    125,
+    {
+      "type": "passive",
+      "id": 125,
+      "name": "Bobby-Bomb"
+    }
+  ],
+  [
+    129,
+    {
+      "type": "passive",
+      "id": 129,
+      "name": "Bucket of Lard"
+    }
+  ],
+  [
+    132,
+    {
+      "type": "passive",
+      "id": 132,
+      "name": "A Lump of Coal"
+    }
+  ],
+  [
+    134,
+    {
+      "type": "passive",
+      "id": 134,
+      "name": "Guppy's Tail"
+    }
+  ],
+  [
+    138,
+    {
+      "type": "passive",
+      "id": 138,
+      "name": "Stigmata"
+    }
+  ],
+  [
+    139,
+    {
+      "type": "passive",
+      "id": 139,
+      "name": "Mom's Purse"
+    }
+  ],
+  [
+    140,
+    {
+      "type": "passive",
+      "id": 140,
+      "name": "Bob's Curse"
+    }
+  ],
+  [
+    141,
+    {
+      "type": "passive",
+      "id": 141,
+      "name": "Pageant Boy"
+    }
+  ],
+  [
+    142,
+    {
+      "type": "passive",
+      "id": 142,
+      "name": "Scapular"
+    }
+  ],
+  [
+    143,
+    {
+      "type": "passive",
+      "id": 143,
+      "name": "Speed Ball"
+    }
+  ],
+  [
+    148,
+    {
+      "type": "passive",
+      "id": 148,
+      "name": "Infestation"
+    }
+  ],
+  [
+    149,
+    {
+      "type": "passive",
+      "id": 149,
+      "name": "Ipecac"
+    }
+  ],
+  [
+    150,
+    {
+      "type": "passive",
+      "id": 150,
+      "name": "Tough Love"
+    }
+  ],
+  [
+    151,
+    {
+      "type": "passive",
+      "id": 151,
+      "name": "The Mulligan"
+    }
+  ],
+  [
+    152,
+    {
+      "type": "passive",
+      "id": 152,
+      "name": "Technology 2"
+    }
+  ],
+  [
+    153,
+    {
+      "type": "passive",
+      "id": 153,
+      "name": "Mutant Spider"
+    }
+  ],
+  [
+    154,
+    {
+      "type": "passive",
+      "id": 154,
+      "name": "Chemical Peel"
+    }
+  ],
+  [
+    156,
+    {
+      "type": "passive",
+      "id": 156,
+      "name": "Habit"
+    }
+  ],
+  [
+    157,
+    {
+      "type": "passive",
+      "id": 157,
+      "name": "Bloody Lust"
+    }
+  ],
+  [
+    159,
+    {
+      "type": "passive",
+      "id": 159,
+      "name": "Spirit of the Night"
+    }
+  ],
+  [
+    161,
+    {
+      "type": "passive",
+      "id": 161,
+      "name": "Ankh"
+    }
+  ],
+  [
+    162,
+    {
+      "type": "passive",
+      "id": 162,
+      "name": "Celtic Cross"
+    }
+  ],
+  [
+    165,
+    {
+      "type": "passive",
+      "id": 165,
+      "name": "Cat-o-nine-tails"
+    }
+  ],
+  [
+    168,
+    {
+      "type": "passive",
+      "id": 168,
+      "name": "Epic Fetus"
+    }
+  ],
+  [
+    169,
+    {
+      "type": "passive",
+      "id": 169,
+      "name": "Polyphemus"
+    }
+  ],
+  [
+    173,
+    {
+      "type": "passive",
+      "id": 173,
+      "name": "Mitre"
+    }
+  ],
+  [
+    176,
+    {
+      "type": "passive",
+      "id": 176,
+      "name": "Stem Cells"
+    }
+  ],
+  [
+    179,
+    {
+      "type": "passive",
+      "id": 179,
+      "name": "Fate"
+    }
+  ],
+  [
+    180,
+    {
+      "type": "passive",
+      "id": 180,
+      "name": "The Black Bean"
+    }
+  ],
+  [
+    182,
+    {
+      "type": "passive",
+      "id": 182,
+      "name": "Sacred Heart"
+    }
+  ],
+  [
+    183,
+    {
+      "type": "passive",
+      "id": 183,
+      "name": "Tooth Picks"
+    }
+  ],
+  [
+    184,
+    {
+      "type": "passive",
+      "id": 184,
+      "name": "Holy Grail"
+    }
+  ],
+  [
+    185,
+    {
+      "type": "passive",
+      "id": 185,
+      "name": "Dead Dove"
+    }
+  ],
+  [
+    189,
+    {
+      "type": "passive",
+      "id": 189,
+      "name": "SMB Super Fan"
+    }
+  ],
+  [
+    190,
+    {
+      "type": "passive",
+      "id": 190,
+      "name": "Pyro"
+    }
+  ],
+  [
+    191,
+    {
+      "type": "passive",
+      "id": 191,
+      "name": "3 Dollar Bill"
+    }
+  ],
+  [
+    193,
+    {
+      "type": "passive",
+      "id": 193,
+      "name": "MEAT!"
+    }
+  ],
+  [
+    194,
+    {
+      "type": "passive",
+      "id": 194,
+      "name": "Magic 8 Ball"
+    }
+  ],
+  [
+    195,
+    {
+      "type": "passive",
+      "id": 195,
+      "name": "Mom's Coin Purse"
+    }
+  ],
+  [
+    196,
+    {
+      "type": "passive",
+      "id": 196,
+      "name": "Squeezy"
+    }
+  ],
+  [
+    197,
+    {
+      "type": "passive",
+      "id": 197,
+      "name": "Jesus Juice"
+    }
+  ],
+  [
+    198,
+    {
+      "type": "passive",
+      "id": 198,
+      "name": "Box"
+    }
+  ],
+  [
+    199,
+    {
+      "type": "passive",
+      "id": 199,
+      "name": "Mom's Key"
+    }
+  ],
+  [
+    200,
+    {
+      "type": "passive",
+      "id": 200,
+      "name": "Mom's Eyeshadow"
+    }
+  ],
+  [
+    201,
+    {
+      "type": "passive",
+      "id": 201,
+      "name": "Iron Bar"
+    }
+  ],
+  [
+    202,
+    {
+      "type": "passive",
+      "id": 202,
+      "name": "Midas' Touch"
+    }
+  ],
+  [
+    203,
+    {
+      "type": "passive",
+      "id": 203,
+      "name": "Humbleing Bundle"
+    }
+  ],
+  [
+    204,
+    {
+      "type": "passive",
+      "id": 204,
+      "name": "Fanny Pack"
+    }
+  ],
+  [
+    205,
+    {
+      "type": "passive",
+      "id": 205,
+      "name": "Sharp Plug"
+    }
+  ],
+  [
+    208,
+    {
+      "type": "passive",
+      "id": 208,
+      "name": "Champion Belt"
+    }
+  ],
+  [
+    209,
+    {
+      "type": "passive",
+      "id": 209,
+      "name": "Butt Bombs"
+    }
+  ],
+  [
+    210,
+    {
+      "type": "passive",
+      "id": 210,
+      "name": "Gnawed Leaf"
+    }
+  ],
+  [
+    211,
+    {
+      "type": "passive",
+      "id": 211,
+      "name": "Spiderbaby"
+    }
+  ],
+  [
+    212,
+    {
+      "type": "passive",
+      "id": 212,
+      "name": "Guppy's Collar"
+    }
+  ],
+  [
+    213,
+    {
+      "type": "passive",
+      "id": 213,
+      "name": "Lost Contact"
+    }
+  ],
+  [
+    214,
+    {
+      "type": "passive",
+      "id": 214,
+      "name": "Anemic"
+    }
+  ],
+  [
+    215,
+    {
+      "type": "passive",
+      "id": 215,
+      "name": "Goat Head"
+    }
+  ],
+  [
+    216,
+    {
+      "type": "passive",
+      "id": 216,
+      "name": "Ceremonial Robes"
+    }
+  ],
+  [
+    217,
+    {
+      "type": "passive",
+      "id": 217,
+      "name": "Mom's Wig"
+    }
+  ],
+  [
+    218,
+    {
+      "type": "passive",
+      "id": 218,
+      "name": "Placenta"
+    }
+  ],
+  [
+    219,
+    {
+      "type": "passive",
+      "id": 219,
+      "name": "Old Bandage"
+    }
+  ],
+  [
+    220,
+    {
+      "type": "passive",
+      "id": 220,
+      "name": "Sad Bombs"
+    }
+  ],
+  [
+    221,
+    {
+      "type": "passive",
+      "id": 221,
+      "name": "Rubber Cement"
+    }
+  ],
+  [
+    222,
+    {
+      "type": "passive",
+      "id": 222,
+      "name": "Anti-Gravity"
+    }
+  ],
+  [
+    223,
+    {
+      "type": "passive",
+      "id": 223,
+      "name": "Pyromaniac"
+    }
+  ],
+  [
+    224,
+    {
+      "type": "passive",
+      "id": 224,
+      "name": "Cricket's Body"
+    }
+  ],
+  [
+    225,
+    {
+      "type": "passive",
+      "id": 225,
+      "name": "Gimpy"
+    }
+  ],
+  [
+    226,
+    {
+      "type": "passive",
+      "id": 226,
+      "name": "Black Lotus"
+    }
+  ],
+  [
+    227,
+    {
+      "type": "passive",
+      "id": 227,
+      "name": "Piggy Bank"
+    }
+  ],
+  [
+    228,
+    {
+      "type": "passive",
+      "id": 228,
+      "name": "Mom's Perfume"
+    }
+  ],
+  [
+    229,
+    {
+      "type": "passive",
+      "id": 229,
+      "name": "Monstro's Lung"
+    }
+  ],
+  [
+    230,
+    {
+      "type": "passive",
+      "id": 230,
+      "name": "Abaddon"
+    }
+  ],
+  [
+    231,
+    {
+      "type": "passive",
+      "id": 231,
+      "name": "Ball of Tar"
+    }
+  ],
+  [
+    232,
+    {
+      "type": "passive",
+      "id": 232,
+      "name": "Stop Watch"
+    }
+  ],
+  [
+    233,
+    {
+      "type": "passive",
+      "id": 233,
+      "name": "Tiny Planet"
+    }
+  ],
+  [
+    234,
+    {
+      "type": "passive",
+      "id": 234,
+      "name": "Infestation 2"
+    }
+  ],
+  [
+    236,
+    {
+      "type": "passive",
+      "id": 236,
+      "name": "E. Coli"
+    }
+  ],
+  [
+    237,
+    {
+      "type": "passive",
+      "id": 237,
+      "name": "Death's Touch"
+    }
+  ],
+  [
+    240,
+    {
+      "type": "passive",
+      "id": 240,
+      "name": "Experimental Treatment"
+    }
+  ],
+  [
+    241,
+    {
+      "type": "passive",
+      "id": 241,
+      "name": "Contract from Below"
+    }
+  ],
+  [
+    242,
+    {
+      "type": "passive",
+      "id": 242,
+      "name": "Infamy"
+    }
+  ],
+  [
+    243,
+    {
+      "type": "passive",
+      "id": 243,
+      "name": "Trinity Shield"
+    }
+  ],
+  [
+    244,
+    {
+      "type": "passive",
+      "id": 244,
+      "name": "Tech.5"
+    }
+  ],
+  [
+    245,
+    {
+      "type": "passive",
+      "id": 245,
+      "name": "20/20"
+    }
+  ],
+  [
+    246,
+    {
+      "type": "passive",
+      "id": 246,
+      "name": "Blue Map"
+    }
+  ],
+  [
+    247,
+    {
+      "type": "passive",
+      "id": 247,
+      "name": "BFFS!"
+    }
+  ],
+  [
+    248,
+    {
+      "type": "passive",
+      "id": 248,
+      "name": "Hive Mind"
+    }
+  ],
+  [
+    249,
+    {
+      "type": "passive",
+      "id": 249,
+      "name": "There's Options"
+    }
+  ],
+  [
+    250,
+    {
+      "type": "passive",
+      "id": 250,
+      "name": "BOGO Bombs"
+    }
+  ],
+  [
+    251,
+    {
+      "type": "passive",
+      "id": 251,
+      "name": "Starter Deck"
+    }
+  ],
+  [
+    252,
+    {
+      "type": "passive",
+      "id": 252,
+      "name": "Little Baggy"
+    }
+  ],
+  [
+    253,
+    {
+      "type": "passive",
+      "id": 253,
+      "name": "Magic Scab"
+    }
+  ],
+  [
+    254,
+    {
+      "type": "passive",
+      "id": 254,
+      "name": "Blood Clot"
+    }
+  ],
+  [
+    255,
+    {
+      "type": "passive",
+      "id": 255,
+      "name": "Screw"
+    }
+  ],
+  [
+    256,
+    {
+      "type": "passive",
+      "id": 256,
+      "name": "Hot Bombs"
+    }
+  ],
+  [
+    257,
+    {
+      "type": "passive",
+      "id": 257,
+      "name": "Fire Mind"
+    }
+  ],
+  [
+    258,
+    {
+      "type": "passive",
+      "id": 258,
+      "name": "Missing No."
+    }
+  ],
+  [
+    259,
+    {
+      "type": "passive",
+      "id": 259,
+      "name": "Dark Matter"
+    }
+  ],
+  [
+    260,
+    {
+      "type": "passive",
+      "id": 260,
+      "name": "Black Candle"
+    }
+  ],
+  [
+    261,
+    {
+      "type": "passive",
+      "id": 261,
+      "name": "Proptosis"
+    }
+  ],
+  [
+    262,
+    {
+      "type": "passive",
+      "id": 262,
+      "name": "Missing Page 2"
+    }
+  ],
+  [
+    299,
+    {
+      "type": "passive",
+      "id": 299,
+      "name": "Taurus"
+    }
+  ],
+  [
+    300,
+    {
+      "type": "passive",
+      "id": 300,
+      "name": "Aries"
+    }
+  ],
+  [
+    301,
+    {
+      "type": "passive",
+      "id": 301,
+      "name": "Cancer"
+    }
+  ],
+  [
+    302,
+    {
+      "type": "passive",
+      "id": 302,
+      "name": "Leo"
+    }
+  ],
+  [
+    303,
+    {
+      "type": "passive",
+      "id": 303,
+      "name": "Virgo"
+    }
+  ],
+  [
+    304,
+    {
+      "type": "passive",
+      "id": 304,
+      "name": "Libra"
+    }
+  ],
+  [
+    305,
+    {
+      "type": "passive",
+      "id": 305,
+      "name": "Scorpio"
+    }
+  ],
+  [
+    306,
+    {
+      "type": "passive",
+      "id": 306,
+      "name": "Sagittarius"
+    }
+  ],
+  [
+    307,
+    {
+      "type": "passive",
+      "id": 307,
+      "name": "Capricorn"
+    }
+  ],
+  [
+    308,
+    {
+      "type": "passive",
+      "id": 308,
+      "name": "Aquarius"
+    }
+  ],
+  [
+    309,
+    {
+      "type": "passive",
+      "id": 309,
+      "name": "Pisces"
+    }
+  ],
+  [
+    310,
+    {
+      "type": "passive",
+      "id": 310,
+      "name": "Eve's Mascara"
+    }
+  ],
+  [
+    311,
+    {
+      "type": "passive",
+      "id": 311,
+      "name": "Judas' Shadow"
+    }
+  ],
+  [
+    312,
+    {
+      "type": "passive",
+      "id": 312,
+      "name": "Maggy's Bow"
+    }
+  ],
+  [
+    313,
+    {
+      "type": "passive",
+      "id": 313,
+      "name": "Holy Mantle"
+    }
+  ],
+  [
+    314,
+    {
+      "type": "passive",
+      "id": 314,
+      "name": "Thunder Thighs"
+    }
+  ],
+  [
+    315,
+    {
+      "type": "passive",
+      "id": 315,
+      "name": "Strange Attractor"
+    }
+  ],
+  [
+    316,
+    {
+      "type": "passive",
+      "id": 316,
+      "name": "Cursed Eye"
+    }
+  ],
+  [
+    317,
+    {
+      "type": "passive",
+      "id": 317,
+      "name": "Mysterious Liquid"
+    }
+  ],
+  [
+    327,
+    {
+      "type": "passive",
+      "id": 327,
+      "name": "The Polaroid"
+    }
+  ],
+  [
+    328,
+    {
+      "type": "passive",
+      "id": 328,
+      "name": "The Negative"
+    }
+  ],
+  [
+    329,
+    {
+      "type": "passive",
+      "id": 329,
+      "name": "The Ludovico Technique"
+    }
+  ],
+  [
+    330,
+    {
+      "type": "passive",
+      "id": 330,
+      "name": "Soy Milk"
+    }
+  ],
+  [
+    331,
+    {
+      "type": "passive",
+      "id": 331,
+      "name": "Godhead"
+    }
+  ],
+  [
+    332,
+    {
+      "type": "passive",
+      "id": 332,
+      "name": "Lazarus' Rags"
+    }
+  ],
+  [
+    333,
+    {
+      "type": "passive",
+      "id": 333,
+      "name": "The Mind"
+    }
+  ],
+  [
+    334,
+    {
+      "type": "passive",
+      "id": 334,
+      "name": "The Body"
+    }
+  ],
+  [
+    335,
+    {
+      "type": "passive",
+      "id": 335,
+      "name": "The Soul"
+    }
+  ],
+  [
+    336,
+    {
+      "type": "passive",
+      "id": 336,
+      "name": "Dead Onion"
+    }
+  ],
+  [
+    337,
+    {
+      "type": "passive",
+      "id": 337,
+      "name": "Broken Watch"
+    }
+  ],
+  [
+    339,
+    {
+      "type": "passive",
+      "id": 339,
+      "name": "Safety Pin"
+    }
+  ],
+  [
+    340,
+    {
+      "type": "passive",
+      "id": 340,
+      "name": "Caffeine Pill"
+    }
+  ],
+  [
+    341,
+    {
+      "type": "passive",
+      "id": 341,
+      "name": "Torn Photo"
+    }
+  ],
+  [
+    342,
+    {
+      "type": "passive",
+      "id": 342,
+      "name": "Blue Cap"
+    }
+  ],
+  [
+    343,
+    {
+      "type": "passive",
+      "id": 343,
+      "name": "Latch Key"
+    }
+  ],
+  [
+    344,
+    {
+      "type": "passive",
+      "id": 344,
+      "name": "Match Book"
+    }
+  ],
+  [
+    345,
+    {
+      "type": "passive",
+      "id": 345,
+      "name": "Synthoil"
+    }
+  ],
+  [
+    346,
+    {
+      "type": "passive",
+      "id": 346,
+      "name": "A Snack"
+    }
+  ],
+  [
+    350,
+    {
+      "type": "passive",
+      "id": 350,
+      "name": "Toxic Shock"
+    }
+  ],
+  [
+    353,
+    {
+      "type": "passive",
+      "id": 353,
+      "name": "Bomber Boy"
+    }
+  ],
+  [
+    354,
+    {
+      "type": "passive",
+      "id": 354,
+      "name": "Crack Jacks"
+    }
+  ],
+  [
+    355,
+    {
+      "type": "passive",
+      "id": 355,
+      "name": "Mom's Pearls"
+    }
+  ],
+  [
+    356,
+    {
+      "type": "passive",
+      "id": 356,
+      "name": "Car Battery"
+    }
+  ],
+  [
+    358,
+    {
+      "type": "passive",
+      "id": 358,
+      "name": "The Wiz"
+    }
+  ],
+  [
+    359,
+    {
+      "type": "passive",
+      "id": 359,
+      "name": "8 Inch Nails"
+    }
+  ],
+  [
+    366,
+    {
+      "type": "passive",
+      "id": 366,
+      "name": "Scatter Bombs"
+    }
+  ],
+  [
+    367,
+    {
+      "type": "passive",
+      "id": 367,
+      "name": "Sticky Bombs"
+    }
+  ],
+  [
+    368,
+    {
+      "type": "passive",
+      "id": 368,
+      "name": "Epiphora"
+    }
+  ],
+  [
+    369,
+    {
+      "type": "passive",
+      "id": 369,
+      "name": "Continuum"
+    }
+  ],
+  [
+    370,
+    {
+      "type": "passive",
+      "id": 370,
+      "name": "Mr. Dolly"
+    }
+  ],
+  [
+    371,
+    {
+      "type": "passive",
+      "id": 371,
+      "name": "Curse of the Tower"
+    }
+  ],
+  [
+    373,
+    {
+      "type": "passive",
+      "id": 373,
+      "name": "Dead Eye"
+    }
+  ],
+  [
+    374,
+    {
+      "type": "passive",
+      "id": 374,
+      "name": "Holy Light"
+    }
+  ],
+  [
+    375,
+    {
+      "type": "passive",
+      "id": 375,
+      "name": "Host Hat"
+    }
+  ],
+  [
+    376,
+    {
+      "type": "passive",
+      "id": 376,
+      "name": "Restock"
+    }
+  ],
+  [
+    377,
+    {
+      "type": "passive",
+      "id": 377,
+      "name": "Bursting Sack"
+    }
+  ],
+  [
+    378,
+    {
+      "type": "passive",
+      "id": 378,
+      "name": "No. 2"
+    }
+  ],
+  [
+    379,
+    {
+      "type": "passive",
+      "id": 379,
+      "name": "Pupula Duplex"
+    }
+  ],
+  [
+    380,
+    {
+      "type": "passive",
+      "id": 380,
+      "name": "Pay To Play"
+    }
+  ],
+  [
+    381,
+    {
+      "type": "passive",
+      "id": 381,
+      "name": "Eden's Blessing"
+    }
+  ],
+  [
+    391,
+    {
+      "type": "passive",
+      "id": 391,
+      "name": "Betrayal"
+    }
+  ],
+  [
+    392,
+    {
+      "type": "passive",
+      "id": 392,
+      "name": "Zodiac"
+    }
+  ],
+  [
+    393,
+    {
+      "type": "passive",
+      "id": 393,
+      "name": "Serpent's Kiss"
+    }
+  ],
+  [
+    394,
+    {
+      "type": "passive",
+      "id": 394,
+      "name": "Marked"
+    }
+  ],
+  [
+    395,
+    {
+      "type": "passive",
+      "id": 395,
+      "name": "Tech X"
+    }
+  ],
+  [
+    397,
+    {
+      "type": "passive",
+      "id": 397,
+      "name": "Tractor Beam"
+    }
+  ],
+  [
+    398,
+    {
+      "type": "passive",
+      "id": 398,
+      "name": "God's Flesh"
+    }
+  ],
+  [
+    399,
+    {
+      "type": "passive",
+      "id": 399,
+      "name": "Maw Of The Void"
+    }
+  ],
+  [
+    400,
+    {
+      "type": "passive",
+      "id": 400,
+      "name": "Spear Of Destiny"
+    }
+  ],
+  [
+    401,
+    {
+      "type": "passive",
+      "id": 401,
+      "name": "Explosivo"
+    }
+  ],
+  [
+    402,
+    {
+      "type": "passive",
+      "id": 402,
+      "name": "Chaos"
+    }
+  ],
+  [
+    407,
+    {
+      "type": "passive",
+      "id": 407,
+      "name": "Purity"
+    }
+  ],
+  [
+    408,
+    {
+      "type": "passive",
+      "id": 408,
+      "name": "Athame"
+    }
+  ],
+  [
+    409,
+    {
+      "type": "passive",
+      "id": 409,
+      "name": "Empty Vessel"
+    }
+  ],
+  [
+    410,
+    {
+      "type": "passive",
+      "id": 410,
+      "name": "Evil Eye"
+    }
+  ],
+  [
+    411,
+    {
+      "type": "passive",
+      "id": 411,
+      "name": "Lusty Blood"
+    }
+  ],
+  [
+    412,
+    {
+      "type": "passive",
+      "id": 412,
+      "name": "Cambion Conception"
+    }
+  ],
+  [
+    413,
+    {
+      "type": "passive",
+      "id": 413,
+      "name": "Immaculate Conception"
+    }
+  ],
+  [
+    414,
+    {
+      "type": "passive",
+      "id": 414,
+      "name": "More Options"
+    }
+  ],
+  [
+    415,
+    {
+      "type": "passive",
+      "id": 415,
+      "name": "Crown Of Light"
+    }
+  ],
+  [
+    416,
+    {
+      "type": "passive",
+      "id": 416,
+      "name": "Deep Pockets"
+    }
+  ],
+  [
+    418,
+    {
+      "type": "passive",
+      "id": 418,
+      "name": "Fruit Cake"
+    }
+  ],
+  [
+    420,
+    {
+      "type": "passive",
+      "id": 420,
+      "name": "Black Powder"
+    }
+  ],
+  [
+    423,
+    {
+      "type": "passive",
+      "id": 423,
+      "name": "Circle of Protection"
+    }
+  ],
+  [
+    424,
+    {
+      "type": "passive",
+      "id": 424,
+      "name": "Sack Head"
+    }
+  ],
+  [
+    425,
+    {
+      "type": "passive",
+      "id": 425,
+      "name": "Night Light"
+    }
+  ],
+  [
+    428,
+    {
+      "type": "passive",
+      "id": 428,
+      "name": "PJs"
+    }
+  ],
+  [
+    429,
+    {
+      "type": "passive",
+      "id": 429,
+      "name": "Head of the Keeper"
+    }
+  ],
+  [
+    432,
+    {
+      "type": "passive",
+      "id": 432,
+      "name": "Glitter Bombs"
+    }
+  ],
+  [
+    433,
+    {
+      "type": "passive",
+      "id": 433,
+      "name": "My Shadow"
+    }
+  ],
+  [
+    438,
+    {
+      "type": "passive",
+      "id": 438,
+      "name": "Binky"
+    }
+  ],
+  [
+    440,
+    {
+      "type": "passive",
+      "id": 440,
+      "name": "Kidney Stone"
+    }
+  ],
+  [
+    442,
+    {
+      "type": "passive",
+      "id": 442,
+      "name": "Dark Prince's Crown"
+    }
+  ],
+  [
+    443,
+    {
+      "type": "passive",
+      "id": 443,
+      "name": "Apple!"
+    }
+  ],
+  [
+    444,
+    {
+      "type": "passive",
+      "id": 444,
+      "name": "Lead Pencil"
+    }
+  ],
+  [
+    445,
+    {
+      "type": "passive",
+      "id": 445,
+      "name": "Dog Tooth"
+    }
+  ],
+  [
+    446,
+    {
+      "type": "passive",
+      "id": 446,
+      "name": "Dead Tooth"
+    }
+  ],
+  [
+    447,
+    {
+      "type": "passive",
+      "id": 447,
+      "name": "Linger Bean"
+    }
+  ],
+  [
+    448,
+    {
+      "type": "passive",
+      "id": 448,
+      "name": "Shard of Glass"
+    }
+  ],
+  [
+    449,
+    {
+      "type": "passive",
+      "id": 449,
+      "name": "Metal Plate"
+    }
+  ],
+  [
+    450,
+    {
+      "type": "passive",
+      "id": 450,
+      "name": "Eye of Greed"
+    }
+  ],
+  [
+    451,
+    {
+      "type": "passive",
+      "id": 451,
+      "name": "Tarot Cloth"
+    }
+  ],
+  [
+    452,
+    {
+      "type": "passive",
+      "id": 452,
+      "name": "Varicose Veins"
+    }
+  ],
+  [
+    453,
+    {
+      "type": "passive",
+      "id": 453,
+      "name": "Compound Fracture"
+    }
+  ],
+  [
+    454,
+    {
+      "type": "passive",
+      "id": 454,
+      "name": "Polydactyly"
+    }
+  ],
+  [
+    455,
+    {
+      "type": "passive",
+      "id": 455,
+      "name": "Dad's Lost Coin"
+    }
+  ],
+  [
+    456,
+    {
+      "type": "passive",
+      "id": 456,
+      "name": "Midnight Snack"
+    }
+  ],
+  [
+    457,
+    {
+      "type": "passive",
+      "id": 457,
+      "name": "Cone Head"
+    }
+  ],
+  [
+    458,
+    {
+      "type": "passive",
+      "id": 458,
+      "name": "Belly Button"
+    }
+  ],
+  [
+    459,
+    {
+      "type": "passive",
+      "id": 459,
+      "name": "Sinus Infection"
+    }
+  ],
+  [
+    460,
+    {
+      "type": "passive",
+      "id": 460,
+      "name": "Glaucoma"
+    }
+  ],
+  [
+    461,
+    {
+      "type": "passive",
+      "id": 461,
+      "name": "Parasitoid"
+    }
+  ],
+  [
+    462,
+    {
+      "type": "passive",
+      "id": 462,
+      "name": "Eye of Belial"
+    }
+  ],
+  [
+    463,
+    {
+      "type": "passive",
+      "id": 463,
+      "name": "Sulfuric Acid"
+    }
+  ],
+  [
+    464,
+    {
+      "type": "passive",
+      "id": 464,
+      "name": "Glyph of Balance"
+    }
+  ],
+  [
+    465,
+    {
+      "type": "passive",
+      "id": 465,
+      "name": "Analog Stick"
+    }
+  ],
+  [
+    466,
+    {
+      "type": "passive",
+      "id": 466,
+      "name": "Contagion"
+    }
+  ],
+  [
+    493,
+    {
+      "type": "passive",
+      "id": 493,
+      "name": "Adrenaline"
+    }
+  ],
+  [
+    494,
+    {
+      "type": "passive",
+      "id": 494,
+      "name": "Jacob's Ladder"
+    }
+  ],
+  [
+    495,
+    {
+      "type": "passive",
+      "id": 495,
+      "name": "Ghost Pepper"
+    }
+  ],
+  [
+    496,
+    {
+      "type": "passive",
+      "id": 496,
+      "name": "Euthanasia"
+    }
+  ],
+  [
+    497,
+    {
+      "type": "passive",
+      "id": 497,
+      "name": "Camo Undies"
+    }
+  ],
+  [
+    498,
+    {
+      "type": "passive",
+      "id": 498,
+      "name": "Duality"
+    }
+  ],
+  [
+    499,
+    {
+      "type": "passive",
+      "id": 499,
+      "name": "Eucharist"
+    }
+  ],
+  [
+    501,
+    {
+      "type": "passive",
+      "id": 501,
+      "name": "Greed's Gullet"
+    }
+  ],
+  [
+    502,
+    {
+      "type": "passive",
+      "id": 502,
+      "name": "Large Zit"
+    }
+  ],
+  [
+    503,
+    {
+      "type": "passive",
+      "id": 503,
+      "name": "Little Horn"
+    }
+  ],
+  [
+    505,
+    {
+      "type": "passive",
+      "id": 505,
+      "name": "Poke Go"
+    }
+  ],
+  [
+    506,
+    {
+      "type": "passive",
+      "id": 506,
+      "name": "Backstabber"
+    }
+  ],
+  [
+    513,
+    {
+      "type": "passive",
+      "id": 513,
+      "name": "Bozo"
+    }
+  ],
+  [
+    514,
+    {
+      "type": "passive",
+      "id": 514,
+      "name": "Broken Modem"
+    }
+  ],
+  [
+    517,
+    {
+      "type": "passive",
+      "id": 517,
+      "name": "Fast Bombs"
+    }
+  ],
+  [
+    520,
+    {
+      "type": "passive",
+      "id": 520,
+      "name": "Jumper Cables"
+    }
+  ],
+  [
+    524,
+    {
+      "type": "passive",
+      "id": 524,
+      "name": "Technology Zero"
+    }
+  ],
+  [
+    529,
+    {
+      "type": "passive",
+      "id": 529,
+      "name": "Pop!"
+    }
+  ],
+  [
+    530,
+    {
+      "type": "passive",
+      "id": 530,
+      "name": "Death's List"
+    }
+  ],
+  [
+    531,
+    {
+      "type": "passive",
+      "id": 531,
+      "name": "Haemolacria"
+    }
+  ],
+  [
+    532,
+    {
+      "type": "passive",
+      "id": 532,
+      "name": "Lachryphagy"
+    }
+  ],
+  [
+    533,
+    {
+      "type": "passive",
+      "id": 533,
+      "name": "Trisagion"
+    }
+  ],
+  [
+    534,
+    {
+      "type": "passive",
+      "id": 534,
+      "name": "Schoolbag"
+    }
+  ],
+  [
+    535,
+    {
+      "type": "passive",
+      "id": 535,
+      "name": "Blanket"
+    }
+  ],
+  [
+    538,
+    {
+      "type": "passive",
+      "id": 538,
+      "name": "Marbles"
+    }
+  ],
+  [
+    540,
+    {
+      "type": "passive",
+      "id": 540,
+      "name": "Flat Stone"
+    }
+  ],
+  [
+    541,
+    {
+      "type": "passive",
+      "id": 541,
+      "name": "Marrow"
+    }
+  ],
+  [
+    546,
+    {
+      "type": "passive",
+      "id": 546,
+      "name": "Dad's Ring"
+    }
+  ],
+  [
+    547,
+    {
+      "type": "passive",
+      "id": 547,
+      "name": "Divorce Papers"
+    }
+  ],
+  [
+    549,
+    {
+      "type": "passive",
+      "id": 549,
+      "name": "Brittle Bones"
+    }
+  ],
+  [
+    551,
+    {
+      "type": "passive",
+      "id": 551,
+      "name": "Broken Shovel"
+    }
+  ],
+  [
+    553,
+    {
+      "type": "passive",
+      "id": 553,
+      "name": "Mucormycosis"
+    }
+  ],
+  [
+    554,
+    {
+      "type": "passive",
+      "id": 554,
+      "name": "2Spooky"
+    }
+  ],
+  [
+    558,
+    {
+      "type": "passive",
+      "id": 558,
+      "name": "Eye Sore"
+    }
+  ],
+  [
+    559,
+    {
+      "type": "passive",
+      "id": 559,
+      "name": "120 Volt"
+    }
+  ],
+  [
+    560,
+    {
+      "type": "passive",
+      "id": 560,
+      "name": "It Hurts"
+    }
+  ],
+  [
+    561,
+    {
+      "type": "passive",
+      "id": 561,
+      "name": "Almond Milk"
+    }
+  ],
+  [
+    562,
+    {
+      "type": "passive",
+      "id": 562,
+      "name": "Rock Bottom"
+    }
+  ],
+  [
+    563,
+    {
+      "type": "passive",
+      "id": 563,
+      "name": "Nancy Bombs"
+    }
+  ],
+  [
+    564,
+    {
+      "type": "passive",
+      "id": 564,
+      "name": "A Bar of Soap"
+    }
+  ],
+  [
+    566,
+    {
+      "type": "passive",
+      "id": 566,
+      "name": "Dream Catcher"
+    }
+  ],
+  [
+    568,
+    {
+      "type": "passive",
+      "id": 568,
+      "name": "Divine Intervention"
+    }
+  ],
+  [
+    570,
+    {
+      "type": "passive",
+      "id": 570,
+      "name": "Playdough Cookie"
+    }
+  ],
+  [
+    571,
+    {
+      "type": "passive",
+      "id": 571,
+      "name": "Orphan Socks"
+    }
+  ],
+  [
+    572,
+    {
+      "type": "passive",
+      "id": 572,
+      "name": "Eye of the Occult"
+    }
+  ],
+  [
+    573,
+    {
+      "type": "passive",
+      "id": 573,
+      "name": "Immaculate Heart"
+    }
+  ],
+  [
+    574,
+    {
+      "type": "passive",
+      "id": 574,
+      "name": "Monstrance"
+    }
+  ],
+  [
+    576,
+    {
+      "type": "passive",
+      "id": 576,
+      "name": "Dirty Mind"
+    }
+  ],
+  [
+    579,
+    {
+      "type": "passive",
+      "id": 579,
+      "name": "Spirit Sword"
+    }
+  ],
+  [
+    583,
+    {
+      "type": "passive",
+      "id": 583,
+      "name": "Rocket in a Jar"
+    }
+  ],
+  [
+    584,
+    {
+      "type": "passive",
+      "id": 584,
+      "name": "Book of Virtues"
+    }
+  ],
+  [
+    586,
+    {
+      "type": "passive",
+      "id": 586,
+      "name": "The Stairway"
+    }
+  ],
+  [
+    588,
+    {
+      "type": "passive",
+      "id": 588,
+      "name": "Sol"
+    }
+  ],
+  [
+    589,
+    {
+      "type": "passive",
+      "id": 589,
+      "name": "Luna"
+    }
+  ],
+  [
+    590,
+    {
+      "type": "passive",
+      "id": 590,
+      "name": "Mercurius"
+    }
+  ],
+  [
+    591,
+    {
+      "type": "passive",
+      "id": 591,
+      "name": "Venus"
+    }
+  ],
+  [
+    592,
+    {
+      "type": "passive",
+      "id": 592,
+      "name": "Terra"
+    }
+  ],
+  [
+    593,
+    {
+      "type": "passive",
+      "id": 593,
+      "name": "Mars"
+    }
+  ],
+  [
+    594,
+    {
+      "type": "passive",
+      "id": 594,
+      "name": "Jupiter"
+    }
+  ],
+  [
+    595,
+    {
+      "type": "passive",
+      "id": 595,
+      "name": "Saturnus"
+    }
+  ],
+  [
+    596,
+    {
+      "type": "passive",
+      "id": 596,
+      "name": "Uranus"
+    }
+  ],
+  [
+    597,
+    {
+      "type": "passive",
+      "id": 597,
+      "name": "Neptunus"
+    }
+  ],
+  [
+    598,
+    {
+      "type": "passive",
+      "id": 598,
+      "name": "Pluto"
+    }
+  ],
+  [
+    599,
+    {
+      "type": "passive",
+      "id": 599,
+      "name": "Voodoo Head"
+    }
+  ],
+  [
+    600,
+    {
+      "type": "passive",
+      "id": 600,
+      "name": "Eye Drops"
+    }
+  ],
+  [
+    601,
+    {
+      "type": "passive",
+      "id": 601,
+      "name": "Act of Contrition"
+    }
+  ],
+  [
+    602,
+    {
+      "type": "passive",
+      "id": 602,
+      "name": "Member Card"
+    }
+  ],
+  [
+    603,
+    {
+      "type": "passive",
+      "id": 603,
+      "name": "Battery Pack"
+    }
+  ],
+  [
+    606,
+    {
+      "type": "passive",
+      "id": 606,
+      "name": "Ocular Rift"
+    }
+  ],
+  [
+    614,
+    {
+      "type": "passive",
+      "id": 614,
+      "name": "Blood Bombs"
+    }
+  ],
+  [
+    616,
+    {
+      "type": "passive",
+      "id": 616,
+      "name": "Bird's Eye"
+    }
+  ],
+  [
+    617,
+    {
+      "type": "passive",
+      "id": 617,
+      "name": "Lodestone"
+    }
+  ],
+  [
+    618,
+    {
+      "type": "passive",
+      "id": 618,
+      "name": "Rotten Tomato"
+    }
+  ],
+  [
+    619,
+    {
+      "type": "passive",
+      "id": 619,
+      "name": "Birthright"
+    }
+  ],
+  [
+    621,
+    {
+      "type": "passive",
+      "id": 621,
+      "name": "Red Stew"
+    }
+  ],
+  [
+    624,
+    {
+      "type": "passive",
+      "id": 624,
+      "name": "Booster Pack"
+    }
+  ],
+  [
+    632,
+    {
+      "type": "passive",
+      "id": 632,
+      "name": "Evil Charm"
+    }
+  ],
+  [
+    633,
+    {
+      "type": "passive",
+      "id": 633,
+      "name": "Dogma"
+    }
+  ],
+  [
+    634,
+    {
+      "type": "passive",
+      "id": 634,
+      "name": "Purgatory"
+    }
+  ],
+  [
+    637,
+    {
+      "type": "passive",
+      "id": 637,
+      "name": "Knockout Drops"
+    }
+  ],
+  [
+    641,
+    {
+      "type": "passive",
+      "id": 641,
+      "name": "Akeldama"
+    }
+  ],
+  [
+    643,
+    {
+      "type": "passive",
+      "id": 643,
+      "name": "Revelation"
+    }
+  ],
+  [
+    644,
+    {
+      "type": "passive",
+      "id": 644,
+      "name": "Consolation Prize"
+    }
+  ],
+  [
+    646,
+    {
+      "type": "passive",
+      "id": 646,
+      "name": "Brimstone Bombs"
+    }
+  ],
+  [
+    647,
+    {
+      "type": "passive",
+      "id": 647,
+      "name": "4.5 Volt"
+    }
+  ],
+  [
+    654,
+    {
+      "type": "passive",
+      "id": 654,
+      "name": "False PHD"
+    }
+  ],
+  [
+    657,
+    {
+      "type": "passive",
+      "id": 657,
+      "name": "Vasculitis"
+    }
+  ],
+  [
+    658,
+    {
+      "type": "passive",
+      "id": 658,
+      "name": "Giant Cell"
+    }
+  ],
+  [
+    659,
+    {
+      "type": "passive",
+      "id": 659,
+      "name": "Tropicamide"
+    }
+  ],
+  [
+    660,
+    {
+      "type": "passive",
+      "id": 660,
+      "name": "Card Reading"
+    }
+  ],
+  [
+    661,
+    {
+      "type": "passive",
+      "id": 661,
+      "name": "Quints"
+    }
+  ],
+  [
+    663,
+    {
+      "type": "passive",
+      "id": 663,
+      "name": "Tooth and Nail"
+    }
+  ],
+  [
+    664,
+    {
+      "type": "passive",
+      "id": 664,
+      "name": "Binge Eater"
+    }
+  ],
+  [
+    665,
+    {
+      "type": "passive",
+      "id": 665,
+      "name": "Guppy's Eye"
+    }
+  ],
+  [
+    668,
+    {
+      "type": "passive",
+      "id": 668,
+      "name": "Dad's Note"
+    }
+  ],
+  [
+    669,
+    {
+      "type": "passive",
+      "id": 669,
+      "name": "Sausage"
+    }
+  ],
+  [
+    670,
+    {
+      "type": "passive",
+      "id": 670,
+      "name": "Options?"
+    }
+  ],
+  [
+    671,
+    {
+      "type": "passive",
+      "id": 671,
+      "name": "Candy Heart"
+    }
+  ],
+  [
+    672,
+    {
+      "type": "passive",
+      "id": 672,
+      "name": "A Pound of Flesh"
+    }
+  ],
+  [
+    673,
+    {
+      "type": "passive",
+      "id": 673,
+      "name": "Redemption"
+    }
+  ],
+  [
+    674,
+    {
+      "type": "passive",
+      "id": 674,
+      "name": "Spirit Shackles"
+    }
+  ],
+  [
+    675,
+    {
+      "type": "passive",
+      "id": 675,
+      "name": "Cracked Orb"
+    }
+  ],
+  [
+    676,
+    {
+      "type": "passive",
+      "id": 676,
+      "name": "Empty Heart"
+    }
+  ],
+  [
+    677,
+    {
+      "type": "passive",
+      "id": 677,
+      "name": "Astral Projection"
+    }
+  ],
+  [
+    678,
+    {
+      "type": "passive",
+      "id": 678,
+      "name": "C Section"
+    }
+  ],
+  [
+    680,
+    {
+      "type": "passive",
+      "id": 680,
+      "name": "Montezuma's Revenge"
+    }
+  ],
+  [
+    683,
+    {
+      "type": "passive",
+      "id": 683,
+      "name": "Bone Spurs"
+    }
+  ],
+  [
+    684,
+    {
+      "type": "passive",
+      "id": 684,
+      "name": "Hungry Soul"
+    }
+  ],
+  [
+    686,
+    {
+      "type": "passive",
+      "id": 686,
+      "name": "Soul Locket"
+    }
+  ],
+  [
+    688,
+    {
+      "type": "passive",
+      "id": 688,
+      "name": "Inner Child"
+    }
+  ],
+  [
+    689,
+    {
+      "type": "passive",
+      "id": 689,
+      "name": "Glitched Crown"
+    }
+  ],
+  [
+    690,
+    {
+      "type": "passive",
+      "id": 690,
+      "name": "Belly Jelly"
+    }
+  ],
+  [
+    691,
+    {
+      "type": "passive",
+      "id": 691,
+      "name": "Sacred Orb"
+    }
+  ],
+  [
+    692,
+    {
+      "type": "passive",
+      "id": 692,
+      "name": "Sanguine Bond"
+    }
+  ],
+  [
+    693,
+    {
+      "type": "passive",
+      "id": 693,
+      "name": "The Swarm"
+    }
+  ],
+  [
+    694,
+    {
+      "type": "passive",
+      "id": 694,
+      "name": "Heartbreak"
+    }
+  ],
+  [
+    695,
+    {
+      "type": "passive",
+      "id": 695,
+      "name": "Bloody Gust"
+    }
+  ],
+  [
+    696,
+    {
+      "type": "passive",
+      "id": 696,
+      "name": "Salvation"
+    }
+  ],
+  [
+    699,
+    {
+      "type": "passive",
+      "id": 699,
+      "name": "Azazel's Rage"
+    }
+  ],
+  [
+    700,
+    {
+      "type": "passive",
+      "id": 700,
+      "name": "Echo Chamber"
+    }
+  ],
+  [
+    701,
+    {
+      "type": "passive",
+      "id": 701,
+      "name": "Isaac's Tomb"
+    }
+  ],
+  [
+    702,
+    {
+      "type": "passive",
+      "id": 702,
+      "name": "Vengeful Spirit"
+    }
+  ],
+  [
+    707,
+    {
+      "type": "passive",
+      "id": 707,
+      "name": "Supper"
+    }
+  ],
+  [
+    708,
+    {
+      "type": "passive",
+      "id": 708,
+      "name": "Stapler"
+    }
+  ],
+  [
+    716,
+    {
+      "type": "passive",
+      "id": 716,
+      "name": "Keeper's Sack"
+    }
+  ],
+  [
+    717,
+    {
+      "type": "passive",
+      "id": 717,
+      "name": "Keeper's Kin"
+    }
+  ],
+  [
+    721,
+    {
+      "type": "passive",
+      "id": 721,
+      "name": "TMTRAINER"
+    }
+  ],
+  [
+    724,
+    {
+      "type": "passive",
+      "id": 724,
+      "name": "Hypercoagulation"
+    }
+  ],
+  [
+    725,
+    {
+      "type": "passive",
+      "id": 725,
+      "name": "IBS"
+    }
+  ],
+  [
+    726,
+    {
+      "type": "passive",
+      "id": 726,
+      "name": "Hemoptysis"
+    }
+  ],
+  [
+    727,
+    {
+      "type": "passive",
+      "id": 727,
+      "name": "Ghost Bombs"
+    }
+  ],
+  [
+    33,
+    {
+      "type": "active",
+      "id": 33,
+      "name": "The Bible"
+    }
+  ],
+  [
+    34,
+    {
+      "type": "active",
+      "id": 34,
+      "name": "The Book of Belial"
+    }
+  ],
+  [
+    35,
+    {
+      "type": "active",
+      "id": 35,
+      "name": "The Necronomicon"
+    }
+  ],
+  [
+    36,
+    {
+      "type": "active",
+      "id": 36,
+      "name": "The Poop"
+    }
+  ],
+  [
+    37,
+    {
+      "type": "active",
+      "id": 37,
+      "name": "Mr. Boom"
+    }
+  ],
+  [
+    38,
+    {
+      "type": "active",
+      "id": 38,
+      "name": "Tammy's Head"
+    }
+  ],
+  [
+    39,
+    {
+      "type": "active",
+      "id": 39,
+      "name": "Mom's Bra"
+    }
+  ],
+  [
+    40,
+    {
+      "type": "active",
+      "id": 40,
+      "name": "Kamikaze!"
+    }
+  ],
+  [
+    41,
+    {
+      "type": "active",
+      "id": 41,
+      "name": "Mom's Pad"
+    }
+  ],
+  [
+    42,
+    {
+      "type": "active",
+      "id": 42,
+      "name": "Bob's Rotten Head"
+    }
+  ],
+  [
+    44,
+    {
+      "type": "active",
+      "id": 44,
+      "name": "Teleport!"
+    }
+  ],
+  [
+    45,
+    {
+      "type": "active",
+      "id": 45,
+      "name": "Yum Heart"
+    }
+  ],
+  [
+    47,
+    {
+      "type": "active",
+      "id": 47,
+      "name": "Doctor's Remote"
+    }
+  ],
+  [
+    49,
+    {
+      "type": "active",
+      "id": 49,
+      "name": "Shoop da Whoop!"
+    }
+  ],
+  [
+    56,
+    {
+      "type": "active",
+      "id": 56,
+      "name": "Lemon Mishap"
+    }
+  ],
+  [
+    58,
+    {
+      "type": "active",
+      "id": 58,
+      "name": "Book of Shadows"
+    }
+  ],
+  [
+    65,
+    {
+      "type": "active",
+      "id": 65,
+      "name": "Anarchist Cookbook"
+    }
+  ],
+  [
+    66,
+    {
+      "type": "active",
+      "id": 66,
+      "name": "The Hourglass"
+    }
+  ],
+  [
+    77,
+    {
+      "type": "active",
+      "id": 77,
+      "name": "My Little Unicorn"
+    }
+  ],
+  [
+    78,
+    {
+      "type": "active",
+      "id": 78,
+      "name": "Book of Revelations"
+    }
+  ],
+  [
+    83,
+    {
+      "type": "active",
+      "id": 83,
+      "name": "The Nail"
+    }
+  ],
+  [
+    84,
+    {
+      "type": "active",
+      "id": 84,
+      "name": "We Need To Go Deeper!"
+    }
+  ],
+  [
+    85,
+    {
+      "type": "active",
+      "id": 85,
+      "name": "Deck of Cards"
+    }
+  ],
+  [
+    86,
+    {
+      "type": "active",
+      "id": 86,
+      "name": "Monstro's Tooth"
+    }
+  ],
+  [
+    93,
+    {
+      "type": "active",
+      "id": 93,
+      "name": "The Gamekid"
+    }
+  ],
+  [
+    97,
+    {
+      "type": "active",
+      "id": 97,
+      "name": "The Book of Sin"
+    }
+  ],
+  [
+    102,
+    {
+      "type": "active",
+      "id": 102,
+      "name": "Mom's Bottle of Pills"
+    }
+  ],
+  [
+    105,
+    {
+      "type": "active",
+      "id": 105,
+      "name": "The D6"
+    }
+  ],
+  [
+    107,
+    {
+      "type": "active",
+      "id": 107,
+      "name": "The Pinking Shears"
+    }
+  ],
+  [
+    111,
+    {
+      "type": "active",
+      "id": 111,
+      "name": "The Bean"
+    }
+  ],
+  [
+    123,
+    {
+      "type": "active",
+      "id": 123,
+      "name": "Monster Manual"
+    }
+  ],
+  [
+    124,
+    {
+      "type": "active",
+      "id": 124,
+      "name": "Dead Sea Scrolls"
+    }
+  ],
+  [
+    126,
+    {
+      "type": "active",
+      "id": 126,
+      "name": "Razor Blade"
+    }
+  ],
+  [
+    127,
+    {
+      "type": "active",
+      "id": 127,
+      "name": "Forget Me Now"
+    }
+  ],
+  [
+    130,
+    {
+      "type": "active",
+      "id": 130,
+      "name": "A Pony"
+    }
+  ],
+  [
+    133,
+    {
+      "type": "active",
+      "id": 133,
+      "name": "Guppy's Paw"
+    }
+  ],
+  [
+    135,
+    {
+      "type": "active",
+      "id": 135,
+      "name": "IV Bag"
+    }
+  ],
+  [
+    136,
+    {
+      "type": "active",
+      "id": 136,
+      "name": "Best Friend"
+    }
+  ],
+  [
+    137,
+    {
+      "type": "active",
+      "id": 137,
+      "name": "Remote Detonator"
+    }
+  ],
+  [
+    145,
+    {
+      "type": "active",
+      "id": 145,
+      "name": "Guppy's Head"
+    }
+  ],
+  [
+    146,
+    {
+      "type": "active",
+      "id": 146,
+      "name": "Prayer Card"
+    }
+  ],
+  [
+    147,
+    {
+      "type": "active",
+      "id": 147,
+      "name": "Notched Axe"
+    }
+  ],
+  [
+    158,
+    {
+      "type": "active",
+      "id": 158,
+      "name": "Crystal Ball"
+    }
+  ],
+  [
+    160,
+    {
+      "type": "active",
+      "id": 160,
+      "name": "Crack the Sky"
+    }
+  ],
+  [
+    164,
+    {
+      "type": "active",
+      "id": 164,
+      "name": "The Candle"
+    }
+  ],
+  [
+    166,
+    {
+      "type": "active",
+      "id": 166,
+      "name": "D20"
+    }
+  ],
+  [
+    171,
+    {
+      "type": "active",
+      "id": 171,
+      "name": "Spider Butt"
+    }
+  ],
+  [
+    175,
+    {
+      "type": "active",
+      "id": 175,
+      "name": "Dad's Key"
+    }
+  ],
+  [
+    177,
+    {
+      "type": "active",
+      "id": 177,
+      "name": "Portable Slot"
+    }
+  ],
+  [
+    181,
+    {
+      "type": "active",
+      "id": 181,
+      "name": "White Pony"
+    }
+  ],
+  [
+    186,
+    {
+      "type": "active",
+      "id": 186,
+      "name": "Blood Rights"
+    }
+  ],
+  [
+    192,
+    {
+      "type": "active",
+      "id": 192,
+      "name": "Telepathy For Dummies"
+    }
+  ],
+  [
+    263,
+    {
+      "type": "active",
+      "id": 263,
+      "name": "Clear Rune"
+    }
+  ],
+  [
+    282,
+    {
+      "type": "active",
+      "id": 282,
+      "name": "How to Jump"
+    }
+  ],
+  [
+    283,
+    {
+      "type": "active",
+      "id": 283,
+      "name": "D100"
+    }
+  ],
+  [
+    284,
+    {
+      "type": "active",
+      "id": 284,
+      "name": "D4"
+    }
+  ],
+  [
+    285,
+    {
+      "type": "active",
+      "id": 285,
+      "name": "D10"
+    }
+  ],
+  [
+    286,
+    {
+      "type": "active",
+      "id": 286,
+      "name": "Blank Card"
+    }
+  ],
+  [
+    287,
+    {
+      "type": "active",
+      "id": 287,
+      "name": "Book of Secrets"
+    }
+  ],
+  [
+    288,
+    {
+      "type": "active",
+      "id": 288,
+      "name": "Box of Spiders"
+    }
+  ],
+  [
+    289,
+    {
+      "type": "active",
+      "id": 289,
+      "name": "Red Candle"
+    }
+  ],
+  [
+    290,
+    {
+      "type": "active",
+      "id": 290,
+      "name": "The Jar"
+    }
+  ],
+  [
+    291,
+    {
+      "type": "active",
+      "id": 291,
+      "name": "Flush!"
+    }
+  ],
+  [
+    292,
+    {
+      "type": "active",
+      "id": 292,
+      "name": "Satanic Bible"
+    }
+  ],
+  [
+    293,
+    {
+      "type": "active",
+      "id": 293,
+      "name": "Head of Krampus"
+    }
+  ],
+  [
+    294,
+    {
+      "type": "active",
+      "id": 294,
+      "name": "Butter Bean"
+    }
+  ],
+  [
+    295,
+    {
+      "type": "active",
+      "id": 295,
+      "name": "Magic Fingers"
+    }
+  ],
+  [
+    296,
+    {
+      "type": "active",
+      "id": 296,
+      "name": "Converter"
+    }
+  ],
+  [
+    297,
+    {
+      "type": "active",
+      "id": 297,
+      "name": "Pandora's Box"
+    }
+  ],
+  [
+    298,
+    {
+      "type": "active",
+      "id": 298,
+      "name": "Unicorn Stump"
+    }
+  ],
+  [
+    323,
+    {
+      "type": "active",
+      "id": 323,
+      "name": "Isaac's Tears"
+    }
+  ],
+  [
+    324,
+    {
+      "type": "active",
+      "id": 324,
+      "name": "Undefined"
+    }
+  ],
+  [
+    325,
+    {
+      "type": "active",
+      "id": 325,
+      "name": "Scissors"
+    }
+  ],
+  [
+    326,
+    {
+      "type": "active",
+      "id": 326,
+      "name": "Breath of Life"
+    }
+  ],
+  [
+    338,
+    {
+      "type": "active",
+      "id": 338,
+      "name": "The Boomerang"
+    }
+  ],
+  [
+    347,
+    {
+      "type": "active",
+      "id": 347,
+      "name": "Diplopia"
+    }
+  ],
+  [
+    348,
+    {
+      "type": "active",
+      "id": 348,
+      "name": "Placebo"
+    }
+  ],
+  [
+    349,
+    {
+      "type": "active",
+      "id": 349,
+      "name": "Wooden Nickel"
+    }
+  ],
+  [
+    351,
+    {
+      "type": "active",
+      "id": 351,
+      "name": "Mega Bean"
+    }
+  ],
+  [
+    352,
+    {
+      "type": "active",
+      "id": 352,
+      "name": "Glass Cannon"
+    }
+  ],
+  [
+    357,
+    {
+      "type": "active",
+      "id": 357,
+      "name": "Box of Friends"
+    }
+  ],
+  [
+    382,
+    {
+      "type": "active",
+      "id": 382,
+      "name": "Friendly Ball"
+    }
+  ],
+  [
+    383,
+    {
+      "type": "active",
+      "id": 383,
+      "name": "Tear Detonator"
+    }
+  ],
+  [
+    386,
+    {
+      "type": "active",
+      "id": 386,
+      "name": "D12"
+    }
+  ],
+  [
+    396,
+    {
+      "type": "active",
+      "id": 396,
+      "name": "Ventricle Razor"
+    }
+  ],
+  [
+    406,
+    {
+      "type": "active",
+      "id": 406,
+      "name": "D8"
+    }
+  ],
+  [
+    419,
+    {
+      "type": "active",
+      "id": 419,
+      "name": "Teleport 2.0"
+    }
+  ],
+  [
+    421,
+    {
+      "type": "active",
+      "id": 421,
+      "name": "Kidney Bean"
+    }
+  ],
+  [
+    422,
+    {
+      "type": "active",
+      "id": 422,
+      "name": "Glowing Hour Glass"
+    }
+  ],
+  [
+    427,
+    {
+      "type": "active",
+      "id": 427,
+      "name": "Mine Crafter"
+    }
+  ],
+  [
+    434,
+    {
+      "type": "active",
+      "id": 434,
+      "name": "Jar of Flies"
+    }
+  ],
+  [
+    437,
+    {
+      "type": "active",
+      "id": 437,
+      "name": "D7"
+    }
+  ],
+  [
+    439,
+    {
+      "type": "active",
+      "id": 439,
+      "name": "Mom's Box"
+    }
+  ],
+  [
+    441,
+    {
+      "type": "active",
+      "id": 441,
+      "name": "Mega Blast"
+    }
+  ],
+  [
+    474,
+    {
+      "type": "active",
+      "id": 474,
+      "name": "Broken Glass Cannon"
+    }
+  ],
+  [
+    475,
+    {
+      "type": "active",
+      "id": 475,
+      "name": "Plan C"
+    }
+  ],
+  [
+    476,
+    {
+      "type": "active",
+      "id": 476,
+      "name": "D1"
+    }
+  ],
+  [
+    477,
+    {
+      "type": "active",
+      "id": 477,
+      "name": "Void"
+    }
+  ],
+  [
+    478,
+    {
+      "type": "active",
+      "id": 478,
+      "name": "Pause"
+    }
+  ],
+  [
+    479,
+    {
+      "type": "active",
+      "id": 479,
+      "name": "Smelter"
+    }
+  ],
+  [
+    480,
+    {
+      "type": "active",
+      "id": 480,
+      "name": "Compost"
+    }
+  ],
+  [
+    481,
+    {
+      "type": "active",
+      "id": 481,
+      "name": "Dataminer"
+    }
+  ],
+  [
+    482,
+    {
+      "type": "active",
+      "id": 482,
+      "name": "Clicker"
+    }
+  ],
+  [
+    483,
+    {
+      "type": "active",
+      "id": 483,
+      "name": "Mama Mega!"
+    }
+  ],
+  [
+    484,
+    {
+      "type": "active",
+      "id": 484,
+      "name": "Wait What?"
+    }
+  ],
+  [
+    485,
+    {
+      "type": "active",
+      "id": 485,
+      "name": "Crooked Penny"
+    }
+  ],
+  [
+    486,
+    {
+      "type": "active",
+      "id": 486,
+      "name": "Dull Razor"
+    }
+  ],
+  [
+    487,
+    {
+      "type": "active",
+      "id": 487,
+      "name": "Potato Peeler"
+    }
+  ],
+  [
+    488,
+    {
+      "type": "active",
+      "id": 488,
+      "name": "Metronome"
+    }
+  ],
+  [
+    489,
+    {
+      "type": "active",
+      "id": 489,
+      "name": "D infinity"
+    }
+  ],
+  [
+    490,
+    {
+      "type": "active",
+      "id": 490,
+      "name": "Eden's Soul"
+    }
+  ],
+  [
+    504,
+    {
+      "type": "active",
+      "id": 504,
+      "name": "Brown Nugget"
+    }
+  ],
+  [
+    507,
+    {
+      "type": "active",
+      "id": 507,
+      "name": "Sharp Straw"
+    }
+  ],
+  [
+    510,
+    {
+      "type": "active",
+      "id": 510,
+      "name": "Delirious"
+    }
+  ],
+  [
+    512,
+    {
+      "type": "active",
+      "id": 512,
+      "name": "Black Hole"
+    }
+  ],
+  [
+    515,
+    {
+      "type": "active",
+      "id": 515,
+      "name": "Mystery Gift"
+    }
+  ],
+  [
+    516,
+    {
+      "type": "active",
+      "id": 516,
+      "name": "Sprinkler"
+    }
+  ],
+  [
+    521,
+    {
+      "type": "active",
+      "id": 521,
+      "name": "Coupon"
+    }
+  ],
+  [
+    522,
+    {
+      "type": "active",
+      "id": 522,
+      "name": "Telekinesis"
+    }
+  ],
+  [
+    523,
+    {
+      "type": "active",
+      "id": 523,
+      "name": "Moving Box"
+    }
+  ],
+  [
+    527,
+    {
+      "type": "active",
+      "id": 527,
+      "name": "Mr. ME!"
+    }
+  ],
+  [
+    536,
+    {
+      "type": "active",
+      "id": 536,
+      "name": "Sacrificial Altar"
+    }
+  ],
+  [
+    545,
+    {
+      "type": "active",
+      "id": 545,
+      "name": "Book of the Dead"
+    }
+  ],
+  [
+    550,
+    {
+      "type": "active",
+      "id": 550,
+      "name": "Broken Shovel"
+    }
+  ],
+  [
+    552,
+    {
+      "type": "active",
+      "id": 552,
+      "name": "Mom's Shovel"
+    }
+  ],
+  [
+    555,
+    {
+      "type": "active",
+      "id": 555,
+      "name": "Golden Razor"
+    }
+  ],
+  [
+    556,
+    {
+      "type": "active",
+      "id": 556,
+      "name": "Sulfur"
+    }
+  ],
+  [
+    557,
+    {
+      "type": "active",
+      "id": 557,
+      "name": "Fortune Cookie"
+    }
+  ],
+  [
+    577,
+    {
+      "type": "active",
+      "id": 577,
+      "name": "Damocles"
+    }
+  ],
+  [
+    578,
+    {
+      "type": "active",
+      "id": 578,
+      "name": "Free Lemonade"
+    }
+  ],
+  [
+    580,
+    {
+      "type": "active",
+      "id": 580,
+      "name": "Red Key"
+    }
+  ],
+  [
+    582,
+    {
+      "type": "active",
+      "id": 582,
+      "name": "Wavy Cap"
+    }
+  ],
+  [
+    585,
+    {
+      "type": "active",
+      "id": 585,
+      "name": "Alabaster Box"
+    }
+  ],
+  [
+    604,
+    {
+      "type": "active",
+      "id": 604,
+      "name": "Mom's Bracelet"
+    }
+  ],
+  [
+    605,
+    {
+      "type": "active",
+      "id": 605,
+      "name": "The Scooper"
+    }
+  ],
+  [
+    609,
+    {
+      "type": "active",
+      "id": 609,
+      "name": "Eternal D6"
+    }
+  ],
+  [
+    611,
+    {
+      "type": "active",
+      "id": 611,
+      "name": "Larynx"
+    }
+  ],
+  [
+    622,
+    {
+      "type": "active",
+      "id": 622,
+      "name": "Genesis"
+    }
+  ],
+  [
+    623,
+    {
+      "type": "active",
+      "id": 623,
+      "name": "Sharp Key"
+    }
+  ],
+  [
+    625,
+    {
+      "type": "active",
+      "id": 625,
+      "name": "Mega Mush"
+    }
+  ],
+  [
+    628,
+    {
+      "type": "active",
+      "id": 628,
+      "name": "Death Certificate"
+    }
+  ],
+  [
+    631,
+    {
+      "type": "active",
+      "id": 631,
+      "name": "Meat Cleaver"
+    }
+  ],
+  [
+    635,
+    {
+      "type": "active",
+      "id": 635,
+      "name": "Stitches"
+    }
+  ],
+  [
+    636,
+    {
+      "type": "active",
+      "id": 636,
+      "name": "R Key"
+    }
+  ],
+  [
+    638,
+    {
+      "type": "active",
+      "id": 638,
+      "name": "Eraser"
+    }
+  ],
+  [
+    639,
+    {
+      "type": "active",
+      "id": 639,
+      "name": "Yuck Heart"
+    }
+  ],
+  [
+    640,
+    {
+      "type": "active",
+      "id": 640,
+      "name": "Urn of Souls"
+    }
+  ],
+  [
+    642,
+    {
+      "type": "active",
+      "id": 642,
+      "name": "Magic Skin"
+    }
+  ],
+  [
+    650,
+    {
+      "type": "active",
+      "id": 650,
+      "name": "Plum Flute"
+    }
+  ],
+  [
+    653,
+    {
+      "type": "active",
+      "id": 653,
+      "name": "Vade Retro"
+    }
+  ],
+  [
+    655,
+    {
+      "type": "active",
+      "id": 655,
+      "name": "Spin to Win"
+    }
+  ],
+  [
+    685,
+    {
+      "type": "active",
+      "id": 685,
+      "name": "Jar of Wisps"
+    }
+  ],
+  [
+    687,
+    {
+      "type": "active",
+      "id": 687,
+      "name": "Friend Finder"
+    }
+  ],
+  [
+    703,
+    {
+      "type": "active",
+      "id": 703,
+      "name": "Esau Jr."
+    }
+  ],
+  [
+    704,
+    {
+      "type": "active",
+      "id": 704,
+      "name": "Berserk!"
+    }
+  ],
+  [
+    705,
+    {
+      "type": "active",
+      "id": 705,
+      "name": "Dark Arts"
+    }
+  ],
+  [
+    706,
+    {
+      "type": "active",
+      "id": 706,
+      "name": "Abyss"
+    }
+  ],
+  [
+    709,
+    {
+      "type": "active",
+      "id": 709,
+      "name": "Suplex!"
+    }
+  ],
+  [
+    710,
+    {
+      "type": "active",
+      "id": 710,
+      "name": "Bag of Crafting"
+    }
+  ],
+  [
+    711,
+    {
+      "type": "active",
+      "id": 711,
+      "name": "Flip"
+    }
+  ],
+  [
+    712,
+    {
+      "type": "active",
+      "id": 712,
+      "name": "Lemegeton"
+    }
+  ],
+  [
+    713,
+    {
+      "type": "active",
+      "id": 713,
+      "name": "Sumptorium"
+    }
+  ],
+  [
+    714,
+    {
+      "type": "active",
+      "id": 714,
+      "name": "Recall"
+    }
+  ],
+  [
+    715,
+    {
+      "type": "active",
+      "id": 715,
+      "name": "Hold"
+    }
+  ],
+  [
+    719,
+    {
+      "type": "active",
+      "id": 719,
+      "name": "Keeper's Box"
+    }
+  ],
+  [
+    720,
+    {
+      "type": "active",
+      "id": 720,
+      "name": "Everything Jar"
+    }
+  ],
+  [
+    722,
+    {
+      "type": "active",
+      "id": 722,
+      "name": "Anima Sola"
+    }
+  ],
+  [
+    723,
+    {
+      "type": "active",
+      "id": 723,
+      "name": "Spindown Dice"
+    }
+  ],
+  [
+    728,
+    {
+      "type": "active",
+      "id": 728,
+      "name": "Gello"
+    }
+  ],
+  [
+    729,
+    {
+      "type": "active",
+      "id": 729,
+      "name": "Decap Attack"
+    }
+  ],
+  [
+    8,
+    {
+      "type": "familiar",
+      "id": 8,
+      "name": "Brother Bobby"
+    }
+  ],
+  [
+    10,
+    {
+      "type": "familiar",
+      "id": 10,
+      "name": "Halo of Flies"
+    }
+  ],
+  [
+    11,
+    {
+      "type": "familiar",
+      "id": 11,
+      "name": "1up!"
+    }
+  ],
+  [
+    57,
+    {
+      "type": "familiar",
+      "id": 57,
+      "name": "Distant Admiration"
+    }
+  ],
+  [
+    67,
+    {
+      "type": "familiar",
+      "id": 67,
+      "name": "Sister Maggy"
+    }
+  ],
+  [
+    73,
+    {
+      "type": "familiar",
+      "id": 73,
+      "name": "Cube of Meat"
+    }
+  ],
+  [
+    81,
+    {
+      "type": "familiar",
+      "id": 81,
+      "name": "Dead Cat"
+    }
+  ],
+  [
+    88,
+    {
+      "type": "familiar",
+      "id": 88,
+      "name": "Little Chubby"
+    }
+  ],
+  [
+    94,
+    {
+      "type": "familiar",
+      "id": 94,
+      "name": "Sack of Pennies"
+    }
+  ],
+  [
+    95,
+    {
+      "type": "familiar",
+      "id": 95,
+      "name": "Robo-Baby"
+    }
+  ],
+  [
+    96,
+    {
+      "type": "familiar",
+      "id": 96,
+      "name": "Little C.H.A.D."
+    }
+  ],
+  [
+    98,
+    {
+      "type": "familiar",
+      "id": 98,
+      "name": "The Relic"
+    }
+  ],
+  [
+    99,
+    {
+      "type": "familiar",
+      "id": 99,
+      "name": "Little Gish"
+    }
+  ],
+  [
+    100,
+    {
+      "type": "familiar",
+      "id": 100,
+      "name": "Little Steven"
+    }
+  ],
+  [
+    112,
+    {
+      "type": "familiar",
+      "id": 112,
+      "name": "Guardian Angel"
+    }
+  ],
+  [
+    113,
+    {
+      "type": "familiar",
+      "id": 113,
+      "name": "Demon Baby"
+    }
+  ],
+  [
+    128,
+    {
+      "type": "familiar",
+      "id": 128,
+      "name": "Forever alone"
+    }
+  ],
+  [
+    131,
+    {
+      "type": "familiar",
+      "id": 131,
+      "name": "Bomb Bag"
+    }
+  ],
+  [
+    144,
+    {
+      "type": "familiar",
+      "id": 144,
+      "name": "Bum Friend"
+    }
+  ],
+  [
+    155,
+    {
+      "type": "familiar",
+      "id": 155,
+      "name": "The Peeper"
+    }
+  ],
+  [
+    163,
+    {
+      "type": "familiar",
+      "id": 163,
+      "name": "Ghost Baby"
+    }
+  ],
+  [
+    167,
+    {
+      "type": "familiar",
+      "id": 167,
+      "name": "Harlequin Baby"
+    }
+  ],
+  [
+    170,
+    {
+      "type": "familiar",
+      "id": 170,
+      "name": "Daddy Longlegs"
+    }
+  ],
+  [
+    172,
+    {
+      "type": "familiar",
+      "id": 172,
+      "name": "Sacrificial Dagger"
+    }
+  ],
+  [
+    174,
+    {
+      "type": "familiar",
+      "id": 174,
+      "name": "Rainbow Baby"
+    }
+  ],
+  [
+    178,
+    {
+      "type": "familiar",
+      "id": 178,
+      "name": "Holy Water"
+    }
+  ],
+  [
+    187,
+    {
+      "type": "familiar",
+      "id": 187,
+      "name": "Guppy's Hairball"
+    }
+  ],
+  [
+    188,
+    {
+      "type": "familiar",
+      "id": 188,
+      "name": "Abel"
+    }
+  ],
+  [
+    206,
+    {
+      "type": "familiar",
+      "id": 206,
+      "name": "Guillotine"
+    }
+  ],
+  [
+    207,
+    {
+      "type": "familiar",
+      "id": 207,
+      "name": "Ball of Bandages"
+    }
+  ],
+  [
+    238,
+    {
+      "type": "familiar",
+      "id": 238,
+      "name": "Key Piece 1"
+    }
+  ],
+  [
+    239,
+    {
+      "type": "familiar",
+      "id": 239,
+      "name": "Key Piece 2"
+    }
+  ],
+  [
+    264,
+    {
+      "type": "familiar",
+      "id": 264,
+      "name": "Smart Fly"
+    }
+  ],
+  [
+    265,
+    {
+      "type": "familiar",
+      "id": 265,
+      "name": "Dry Baby"
+    }
+  ],
+  [
+    266,
+    {
+      "type": "familiar",
+      "id": 266,
+      "name": "Juicy Sack"
+    }
+  ],
+  [
+    267,
+    {
+      "type": "familiar",
+      "id": 267,
+      "name": "Robo-Baby 2.0"
+    }
+  ],
+  [
+    268,
+    {
+      "type": "familiar",
+      "id": 268,
+      "name": "Rotten Baby"
+    }
+  ],
+  [
+    269,
+    {
+      "type": "familiar",
+      "id": 269,
+      "name": "Headless Baby"
+    }
+  ],
+  [
+    270,
+    {
+      "type": "familiar",
+      "id": 270,
+      "name": "Leech"
+    }
+  ],
+  [
+    271,
+    {
+      "type": "familiar",
+      "id": 271,
+      "name": "Mystery Sack"
+    }
+  ],
+  [
+    272,
+    {
+      "type": "familiar",
+      "id": 272,
+      "name": "BBF"
+    }
+  ],
+  [
+    273,
+    {
+      "type": "familiar",
+      "id": 273,
+      "name": "Bob's Brain"
+    }
+  ],
+  [
+    274,
+    {
+      "type": "familiar",
+      "id": 274,
+      "name": "Best Bud"
+    }
+  ],
+  [
+    275,
+    {
+      "type": "familiar",
+      "id": 275,
+      "name": "Lil Brimstone"
+    }
+  ],
+  [
+    276,
+    {
+      "type": "familiar",
+      "id": 276,
+      "name": "Isaac's Heart"
+    }
+  ],
+  [
+    277,
+    {
+      "type": "familiar",
+      "id": 277,
+      "name": "Lil Haunt"
+    }
+  ],
+  [
+    278,
+    {
+      "type": "familiar",
+      "id": 278,
+      "name": "Dark Bum"
+    }
+  ],
+  [
+    279,
+    {
+      "type": "familiar",
+      "id": 279,
+      "name": "Big Fan"
+    }
+  ],
+  [
+    280,
+    {
+      "type": "familiar",
+      "id": 280,
+      "name": "Sissy Longlegs"
+    }
+  ],
+  [
+    281,
+    {
+      "type": "familiar",
+      "id": 281,
+      "name": "Punching Bag"
+    }
+  ],
+  [
+    318,
+    {
+      "type": "familiar",
+      "id": 318,
+      "name": "Gemini"
+    }
+  ],
+  [
+    319,
+    {
+      "type": "familiar",
+      "id": 319,
+      "name": "Cain's Other Eye"
+    }
+  ],
+  [
+    320,
+    {
+      "type": "familiar",
+      "id": 320,
+      "name": "???'s Only Friend"
+    }
+  ],
+  [
+    321,
+    {
+      "type": "familiar",
+      "id": 321,
+      "name": "Samson's Chains"
+    }
+  ],
+  [
+    322,
+    {
+      "type": "familiar",
+      "id": 322,
+      "name": "Mongo Baby"
+    }
+  ],
+  [
+    360,
+    {
+      "type": "familiar",
+      "id": 360,
+      "name": "Incubus"
+    }
+  ],
+  [
+    361,
+    {
+      "type": "familiar",
+      "id": 361,
+      "name": "Fate's Reward"
+    }
+  ],
+  [
+    362,
+    {
+      "type": "familiar",
+      "id": 362,
+      "name": "Lil Chest"
+    }
+  ],
+  [
+    363,
+    {
+      "type": "familiar",
+      "id": 363,
+      "name": "Sworn Protector"
+    }
+  ],
+  [
+    364,
+    {
+      "type": "familiar",
+      "id": 364,
+      "name": "Friend Zone"
+    }
+  ],
+  [
+    365,
+    {
+      "type": "familiar",
+      "id": 365,
+      "name": "Lost Fly"
+    }
+  ],
+  [
+    372,
+    {
+      "type": "familiar",
+      "id": 372,
+      "name": "Charged Baby"
+    }
+  ],
+  [
+    384,
+    {
+      "type": "familiar",
+      "id": 384,
+      "name": "Lil Gurdy"
+    }
+  ],
+  [
+    385,
+    {
+      "type": "familiar",
+      "id": 385,
+      "name": "Bumbo"
+    }
+  ],
+  [
+    387,
+    {
+      "type": "familiar",
+      "id": 387,
+      "name": "Censer"
+    }
+  ],
+  [
+    388,
+    {
+      "type": "familiar",
+      "id": 388,
+      "name": "Key Bum"
+    }
+  ],
+  [
+    389,
+    {
+      "type": "familiar",
+      "id": 389,
+      "name": "Rune Bag"
+    }
+  ],
+  [
+    390,
+    {
+      "type": "familiar",
+      "id": 390,
+      "name": "Seraphim"
+    }
+  ],
+  [
+    403,
+    {
+      "type": "familiar",
+      "id": 403,
+      "name": "Spider Mod"
+    }
+  ],
+  [
+    404,
+    {
+      "type": "familiar",
+      "id": 404,
+      "name": "Farting Baby"
+    }
+  ],
+  [
+    405,
+    {
+      "type": "familiar",
+      "id": 405,
+      "name": "GB Bug"
+    }
+  ],
+  [
+    417,
+    {
+      "type": "familiar",
+      "id": 417,
+      "name": "Succubus"
+    }
+  ],
+  [
+    426,
+    {
+      "type": "familiar",
+      "id": 426,
+      "name": "Obsessed Fan"
+    }
+  ],
+  [
+    430,
+    {
+      "type": "familiar",
+      "id": 430,
+      "name": "Papa Fly"
+    }
+  ],
+  [
+    431,
+    {
+      "type": "familiar",
+      "id": 431,
+      "name": "Multidimensional Baby"
+    }
+  ],
+  [
+    435,
+    {
+      "type": "familiar",
+      "id": 435,
+      "name": "Lil Loki"
+    }
+  ],
+  [
+    436,
+    {
+      "type": "familiar",
+      "id": 436,
+      "name": "Milk!"
+    }
+  ],
+  [
+    467,
+    {
+      "type": "familiar",
+      "id": 467,
+      "name": "Finger!"
+    }
+  ],
+  [
+    468,
+    {
+      "type": "familiar",
+      "id": 468,
+      "name": "Shade"
+    }
+  ],
+  [
+    469,
+    {
+      "type": "familiar",
+      "id": 469,
+      "name": "Depression"
+    }
+  ],
+  [
+    470,
+    {
+      "type": "familiar",
+      "id": 470,
+      "name": "Hushy"
+    }
+  ],
+  [
+    471,
+    {
+      "type": "familiar",
+      "id": 471,
+      "name": "Lil Monstro"
+    }
+  ],
+  [
+    472,
+    {
+      "type": "familiar",
+      "id": 472,
+      "name": "King Baby"
+    }
+  ],
+  [
+    473,
+    {
+      "type": "familiar",
+      "id": 473,
+      "name": "Big Chubby"
+    }
+  ],
+  [
+    491,
+    {
+      "type": "familiar",
+      "id": 491,
+      "name": "Acid Baby"
+    }
+  ],
+  [
+    492,
+    {
+      "type": "familiar",
+      "id": 492,
+      "name": "YO LISTEN!"
+    }
+  ],
+  [
+    500,
+    {
+      "type": "familiar",
+      "id": 500,
+      "name": "Sack of Sacks"
+    }
+  ],
+  [
+    508,
+    {
+      "type": "familiar",
+      "id": 508,
+      "name": "Mom's Razor"
+    }
+  ],
+  [
+    509,
+    {
+      "type": "familiar",
+      "id": 509,
+      "name": "Bloodshot Eye"
+    }
+  ],
+  [
+    511,
+    {
+      "type": "familiar",
+      "id": 511,
+      "name": "Angry Fly"
+    }
+  ],
+  [
+    518,
+    {
+      "type": "familiar",
+      "id": 518,
+      "name": "Buddy in a Box"
+    }
+  ],
+  [
+    519,
+    {
+      "type": "familiar",
+      "id": 519,
+      "name": "Lil Delirium"
+    }
+  ],
+  [
+    525,
+    {
+      "type": "familiar",
+      "id": 525,
+      "name": "Leprosy"
+    }
+  ],
+  [
+    526,
+    {
+      "type": "familiar",
+      "id": 526,
+      "name": "7 Seals"
+    }
+  ],
+  [
+    528,
+    {
+      "type": "familiar",
+      "id": 528,
+      "name": "Angelic Prism"
+    }
+  ],
+  [
+    537,
+    {
+      "type": "familiar",
+      "id": 537,
+      "name": "Lil Spewer"
+    }
+  ],
+  [
+    539,
+    {
+      "type": "familiar",
+      "id": 539,
+      "name": "Mystery Egg"
+    }
+  ],
+  [
+    542,
+    {
+      "type": "familiar",
+      "id": 542,
+      "name": "Slipped Rib"
+    }
+  ],
+  [
+    543,
+    {
+      "type": "familiar",
+      "id": 543,
+      "name": "Hallowed Ground"
+    }
+  ],
+  [
+    544,
+    {
+      "type": "familiar",
+      "id": 544,
+      "name": "Pointy Rib"
+    }
+  ],
+  [
+    548,
+    {
+      "type": "familiar",
+      "id": 548,
+      "name": "Jaw Bone"
+    }
+  ],
+  [
+    565,
+    {
+      "type": "familiar",
+      "id": 565,
+      "name": "Blood Puppy"
+    }
+  ],
+  [
+    567,
+    {
+      "type": "familiar",
+      "id": 567,
+      "name": "Paschal Candle"
+    }
+  ],
+  [
+    569,
+    {
+      "type": "familiar",
+      "id": 569,
+      "name": "Blood Oath"
+    }
+  ],
+  [
+    575,
+    {
+      "type": "familiar",
+      "id": 575,
+      "name": "The Intruder"
+    }
+  ],
+  [
+    581,
+    {
+      "type": "familiar",
+      "id": 581,
+      "name": "Psy Fly"
+    }
+  ],
+  [
+    607,
+    {
+      "type": "familiar",
+      "id": 607,
+      "name": "Boiled Baby"
+    }
+  ],
+  [
+    608,
+    {
+      "type": "familiar",
+      "id": 608,
+      "name": "Freezer Baby"
+    }
+  ],
+  [
+    610,
+    {
+      "type": "familiar",
+      "id": 610,
+      "name": "Bird Cage"
+    }
+  ],
+  [
+    612,
+    {
+      "type": "familiar",
+      "id": 612,
+      "name": "Lost Soul"
+    }
+  ],
+  [
+    615,
+    {
+      "type": "familiar",
+      "id": 615,
+      "name": "Lil Dumpy"
+    }
+  ],
+  [
+    626,
+    {
+      "type": "familiar",
+      "id": 626,
+      "name": "Knife Piece 1"
+    }
+  ],
+  [
+    627,
+    {
+      "type": "familiar",
+      "id": 627,
+      "name": "Knife Piece 2"
+    }
+  ],
+  [
+    629,
+    {
+      "type": "familiar",
+      "id": 629,
+      "name": "Bot Fly"
+    }
+  ],
+  [
+    645,
+    {
+      "type": "familiar",
+      "id": 645,
+      "name": "Tinytoma"
+    }
+  ],
+  [
+    649,
+    {
+      "type": "familiar",
+      "id": 649,
+      "name": "Fruity Plum"
+    }
+  ],
+  [
+    651,
+    {
+      "type": "familiar",
+      "id": 651,
+      "name": "Star of Bethlehem"
+    }
+  ],
+  [
+    652,
+    {
+      "type": "familiar",
+      "id": 652,
+      "name": "Cube Baby"
+    }
+  ],
+  [
+    656,
+    {
+      "type": "familiar",
+      "id": 656,
+      "name": "Damocles"
+    }
+  ],
+  [
+    667,
+    {
+      "type": "familiar",
+      "id": 667,
+      "name": "Strawman"
+    }
+  ],
+  [
+    679,
+    {
+      "type": "familiar",
+      "id": 679,
+      "name": "Lil Abaddon"
+    }
+  ],
+  [
+    681,
+    {
+      "type": "familiar",
+      "id": 681,
+      "name": "Lil Portal"
+    }
+  ],
+  [
+    682,
+    {
+      "type": "familiar",
+      "id": 682,
+      "name": "Worm Friend"
+    }
+  ],
+  [
+    697,
+    {
+      "type": "familiar",
+      "id": 697,
+      "name": "Vanishing Twin"
+    }
+  ],
+  [
+    698,
+    {
+      "type": "familiar",
+      "id": 698,
+      "name": "Twisted Pair"
+    }
+  ]
+]
