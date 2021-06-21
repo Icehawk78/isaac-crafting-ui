@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/isaac-crafting-ui/static/css/main.8ab167bb.chunk.css",
-    "main.js": "/isaac-crafting-ui/static/js/main.129fa056.chunk.js",
-    "main.js.map": "/isaac-crafting-ui/static/js/main.129fa056.chunk.js.map",
-    "runtime-main.js": "/isaac-crafting-ui/static/js/runtime-main.056f06fd.js",
-    "runtime-main.js.map": "/isaac-crafting-ui/static/js/runtime-main.056f06fd.js.map",
-    "static/js/2.403665b1.chunk.js": "/isaac-crafting-ui/static/js/2.403665b1.chunk.js",
-    "static/js/2.403665b1.chunk.js.map": "/isaac-crafting-ui/static/js/2.403665b1.chunk.js.map",
-    "static/js/3.966a0b64.chunk.js": "/isaac-crafting-ui/static/js/3.966a0b64.chunk.js",
-    "static/js/3.966a0b64.chunk.js.map": "/isaac-crafting-ui/static/js/3.966a0b64.chunk.js.map",
+    "main.js": "/isaac-crafting-ui/static/js/main.7ae1dddd.chunk.js",
+    "main.js.map": "/isaac-crafting-ui/static/js/main.7ae1dddd.chunk.js.map",
+    "runtime-main.js": "/isaac-crafting-ui/static/js/runtime-main.0a8c5900.js",
+    "runtime-main.js.map": "/isaac-crafting-ui/static/js/runtime-main.0a8c5900.js.map",
+    "static/js/2.f1a448d8.chunk.js": "/isaac-crafting-ui/static/js/2.f1a448d8.chunk.js",
+    "static/js/2.f1a448d8.chunk.js.map": "/isaac-crafting-ui/static/js/2.f1a448d8.chunk.js.map",
+    "static/js/3.c9e08903.chunk.js": "/isaac-crafting-ui/static/js/3.c9e08903.chunk.js",
+    "static/js/3.c9e08903.chunk.js.map": "/isaac-crafting-ui/static/js/3.c9e08903.chunk.js.map",
     "index.html": "/isaac-crafting-ui/index.html",
     "static/css/main.8ab167bb.chunk.css.map": "/isaac-crafting-ui/static/css/main.8ab167bb.chunk.css.map",
-    "static/js/2.403665b1.chunk.js.LICENSE.txt": "/isaac-crafting-ui/static/js/2.403665b1.chunk.js.LICENSE.txt"
+    "static/js/2.f1a448d8.chunk.js.LICENSE.txt": "/isaac-crafting-ui/static/js/2.f1a448d8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.056f06fd.js",
-    "static/js/2.403665b1.chunk.js",
+    "static/js/runtime-main.0a8c5900.js",
+    "static/js/2.f1a448d8.chunk.js",
     "static/css/main.8ab167bb.chunk.css",
-    "static/js/main.129fa056.chunk.js"
+    "static/js/main.7ae1dddd.chunk.js"
   ]
 }
