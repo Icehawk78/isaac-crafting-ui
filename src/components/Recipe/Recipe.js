@@ -1,17 +1,24 @@
 import './Recipe.css';
-import { Card, CardContent, Typography } from '@material-ui/core';
+import { Card, CardContent, CardActionArea, CardActions, Button } from '@material-ui/core';
 import Material from '../Material/Material';
 
-const Item = ({materials, item}) => {
+const Item = ({materials, item, action}) => {
     return (
         <Card>
-            <CardContent>
-                {materials.map(m => (
-                    <Material action={() => {}} type={m} />
-                ))}
-                <div className={`sprite i${item.id}`}></div>
-                <Typography>{item.name}</Typography>
-            </CardContent>
+            <CardActionArea>
+                <CardContent>
+                    {materials.map(m => (
+                        <Material action={() => {}} type={m} />
+                    ))}
+                </CardContent>
+            </CardActionArea>
+            <CardActions>
+                <Button 
+                    startIcon={<div className={`sprite i${item.id}`}></div>}
+                    onClick={action}>
+                    {item.name}
+                </Button>
+            </CardActions>
         </Card>
     )
 };

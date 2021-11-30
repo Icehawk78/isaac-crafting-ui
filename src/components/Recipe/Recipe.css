@@ -5,7 +5,11 @@
     transform: scale(2);
     -ms-interpolation-mode: nearest-neighbor;
     image-rendering: -moz-crisp-edges;
-    image-rendering: pixelated
+    image-rendering: pixelated;
+}
+
+.sprite.tt:hover:before {
+    display: block
 }
 
 .sprite.i1 {
@@ -60,11 +64,11 @@
     background-position: -504px 0
 }
 
-.sprite.i14 {
+.sprite.i15 {
     background-position: -546px 0
 }
 
-.sprite.i15 {
+.sprite.i14 {
     background-position: -588px 0
 }
 
@@ -148,11 +152,11 @@
     background-position: -1428px 0
 }
 
-.sprite.i36 {
+.sprite.i37 {
     background-position: -1470px 0
 }
 
-.sprite.i37 {
+.sprite.i36 {
     background-position: -1512px 0
 }
 
@@ -169,11 +173,11 @@
 }
 
 .sprite.i41 {
-    background-position: -1680px 0
+    background-position: -1722px 0
 }
 
 .sprite.i42 {
-    background-position: -1722px 0
+    background-position: -1680px 0
 }
 
 .sprite.i44 {
@@ -212,11 +216,11 @@
     background-position: -2100px 0
 }
 
-.sprite.i54 {
+.sprite.i53 {
     background-position: -2142px 0
 }
 
-.sprite.i53 {
+.sprite.i54 {
     background-position: -2184px 0
 }
 
@@ -257,11 +261,11 @@
 }
 
 .sprite.i66 {
-    background-position: -2604px 0
+    background-position: -2646px 0
 }
 
 .sprite.i67 {
-    background-position: -2646px 0
+    background-position: -2604px 0
 }
 
 .sprite.i68 {
@@ -325,11 +329,11 @@
 }
 
 .sprite.i83 {
-    background-position: -3318px 0
+    background-position: -3360px 0
 }
 
 .sprite.i84 {
-    background-position: -3360px 0
+    background-position: -3318px 0
 }
 
 .sprite.i85 {
@@ -388,11 +392,11 @@
     background-position: -3948px 0
 }
 
-.sprite.i100 {
+.sprite.i99 {
     background-position: -3990px 0
 }
 
-.sprite.i99 {
+.sprite.i100 {
     background-position: -4032px 0
 }
 
@@ -2868,10 +2872,18 @@
     background-position: -29988px 0
 }
 
-.sprite.i728 {
-    background-position: -30030px 0
-}
-
 .sprite.i729 {
     background-position: -30072px 0
+}
+
+.sprite.i730 {
+    background-position: -30114px 0
+}
+
+.sprite.i731 {
+    background-position: -30156px 0
+}
+
+.sprite.i732 {
+    background-position: -30198px 0
 }

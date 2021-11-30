@@ -1,11 +1,15 @@
 import { BagOfCrafting as BoC } from './BagOfCrafting';
+import { BagOfCraftingSeeded as SBoC } from './seeded_crafting/BagOfCraftingSeeded';
 import { ItemPoolData, ItemMetaData, ItemData } from './JsonAssets';
 
 console.log('ItemPoolData: ', ItemPoolData);
 console.log('ItemMetaData: ', ItemMetaData);
 
 const bc = new BoC(ItemPoolData, ItemMetaData);
+const sbc = new SBoC();
+
 export const BagOfCrafting = bc;
+export const SeededBagOfCrafting = sbc;
 export const Items = ItemData;
 
 interface Hash<T> {
@@ -43,6 +47,10 @@ export const CraftParts: Hash<CraftItem> = {
   'x': {'name': 'Rune', 'id': 23},
   'y': {'name': 'Dice Shard', 'id': 24},
   'z': {'name': 'Key Shard', 'id': 25},
+  'AA': {'name': 'Golden Penny', 'id': 26},
+  'BB': {'name': 'Golden Pill', 'id': 27},
+  'CC': {'name': 'Golden Battery', 'id': 28},
+  'DD': {'name': 'Poop Nugget', 'id': 29},
 }
 
 console.log(bc.calculate([1,1,1,1,8,8,8,8]));

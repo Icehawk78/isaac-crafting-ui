@@ -1,5 +1,5 @@
 .item {
-    background-image: url(./ui_crafting.png);
+    background-image: url(./ui_crafting_2.png);
     width: 32px;
     height: 32px;
     display: inline-block;
@@ -227,4 +227,36 @@
 
 .z:before {
     content: "Cracked Key (Quality: 2)"
+}
+
+.AA {
+    background-position: -64px -96px
+}
+
+.AA:before {
+    content: "Golden Penny (Quality: 7)"
+}
+
+.BB {
+    background-position: -96px -96px
+}
+
+.BB:before {
+    content: "Golden Pill (Quality: 7)"
+}
+
+.CC {
+    background-position: -128px -96px
+}
+
+.CC:before {
+    content: "Golden Battery (Quality: 7)"
+}
+
+.DD {
+    background-position: -160px -96px
+}
+
+.DD:before {
+    content: "Poop Nugget (Quality: 0)"
 }
