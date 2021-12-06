@@ -71,7 +71,7 @@ export class BagOfCraftingSeeded {
     }
 
     calculate(input_array, gameStartSeed){
-        console.log(input_array)
+        // console.log(input_array)
         let sorted_items = this.bucket_sort_list_toint64(input_array)
     
     
@@ -228,6 +228,7 @@ export class BagOfCraftingSeeded {
                             }
                         }
     
+                        // console.log(item_pools[item_pool_i]);
                         let item_quality = 0 + item_config.quality /* there is not a zero, but a var from item_config, which is always zero when i'm testing */
                         if(item_quality >= quality_min && item_quality <= quality_max){
                             //be careful:the game use float instead of double, so js in not accurate!!!
@@ -282,7 +283,7 @@ export class BagOfCraftingSeeded {
                 
                 // if(v72) yes, sure, v72 = something[select]
                 let item_config = this.GetItemConfig(selected)
-                console.log(item_config)
+                // console.log(item_config)
                 if(item_config != undefined && 
                     (
                         item_config.achievement_id == undefined ||
@@ -401,7 +402,7 @@ export class BagOfCraftingSeeded {
     
     binary_tree_search_element(sorted_items){
         console.assert(typeof sorted_items == 'bigint')
-        console.log(this)
+        // console.log(this)
         let root = this.btree_nodes[this.btree.upper]
     
         let output = {

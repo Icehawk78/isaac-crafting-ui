@@ -4,6 +4,7 @@ require 'json'
 root_path = '/mnt/c/Program Files (x86)/Steam/steamapps/common/The Binding of Isaac Rebirth/resources-dlc3/'
 # Run this command first!
 # `/mnt/c/Program Files (x86)/Steam/steamapps/common/The Binding of Isaac Rebirth/tools/ResourceExtractor/Linux/resource_extractor`
+# /mnt/c/Program\ Files\ \(x86\)/Steam/steamapps/common/The\ Binding\ of\ Isaac\ Rebirth/tools/ResourceExtractor/Linux/resource_extractor
 
 itempools = Nokogiri::XML(File.read(root_path + 'itempools.xml'))
 itemmeta = Nokogiri::XML(File.read(root_path + 'items_metadata.xml'))
@@ -41,3 +42,9 @@ parsed_items = items.root.elements.map{|item|
 File.write('item_pool_data.json', JSON.pretty_generate(parsed_pools))
 File.write('item_metadata_data.json', JSON.pretty_generate(parsed_meta))
 File.write('items_data.json', JSON.pretty_generate(parsed_items))
+
+alt_meta = parsed_meta.each_with_index.reduce({}){|res, (item, index)| res[item.first] = {quality: item.last}; res;}
+alt_pool = parsed_pools.each_with_index.reduce({}){|res, (pool, index)| res[index] = pool[:items]; res;}
+
+File.write('alt_meta.json', JSON.pretty_generate(alt_meta).gsub(/"(\d+?)"/, '\1'))
+File.write('alt_pool.json', JSON.pretty_generate(alt_pool).gsub(/"(\d+?)"/, '\1'))

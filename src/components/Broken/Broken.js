@@ -83,8 +83,9 @@ function App() {
       <Grid container item xs={12} m={12} lg={12}>
         <Paper>
           <Grid container xs={12}>
-            <FormControl>
+            <FormControl fullWidth>
               <Autocomplete 
+                fullWidth
                 value={itemFilter} 
                 onChange={(e, newValue) => setItemFilter(newValue)}
                 options={resultNames}
