@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/isaac-crafting-ui/static/css/main.049fbe9e.chunk.css",
-    "main.js": "/isaac-crafting-ui/static/js/main.8ad82b04.chunk.js",
-    "main.js.map": "/isaac-crafting-ui/static/js/main.8ad82b04.chunk.js.map",
+    "main.js": "/isaac-crafting-ui/static/js/main.2bf569c5.chunk.js",
+    "main.js.map": "/isaac-crafting-ui/static/js/main.2bf569c5.chunk.js.map",
     "runtime-main.js": "/isaac-crafting-ui/static/js/runtime-main.3a979fd8.js",
     "runtime-main.js.map": "/isaac-crafting-ui/static/js/runtime-main.3a979fd8.js.map",
     "static/js/2.1e8ff138.chunk.js": "/isaac-crafting-ui/static/js/2.1e8ff138.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3a979fd8.js",
     "static/js/2.1e8ff138.chunk.js",
     "static/css/main.049fbe9e.chunk.css",
-    "static/js/main.8ad82b04.chunk.js"
+    "static/js/main.2bf569c5.chunk.js"
   ]
 }
